@@ -1,5 +1,12 @@
-country-state-city
+NOTE!
 ==============================
+This is a slim version of country-state-city
+forked from [here](https://github.com/harpreetkhalsagtbit/country-state-city)
+I removed the timezones and the cities and everithing i don't need
+it's only for my specific use where i'm trying to decrease the size of my project
+please use [the original npm package](https://www.npmjs.com/package/country-state-city)
+
+# country-state-city
 Basic library for Country, State and City
 
 Data Source:<br>

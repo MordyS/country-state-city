@@ -1,5 +1,5 @@
 // importing interfaces from main index.ts file
-import { ICountry, ICity, IState } from '../index';
+import { ICountry, IState } from '../index';
 
 // writing tests for Interfaces
 // https://stackoverflow.com/questions/14425568/interface-type-check-with-typescript
@@ -14,10 +14,7 @@ test('Check for Interface export when Type Structure is Same', () => {
     phonecode: '+91',
     isoCode: 'IN',
     flag: '🇮🇳',
-    currency: 'INR',
-    latitude: '20.00000000',
-    longitude: '77.00000000',
-    timezones: [{"zoneName":"Asia\/Kolkata","gmtOffset":19800,"gmtOffsetName":"UTC+05:30","abbreviation":"IST","tzName":"Indian Standard Time"}]
+    currency: 'INR'
   };
   let isCountry = isValidCountryObjectStructure(country)
   expect(isCountry).toEqual(true);
@@ -43,10 +40,7 @@ test('Check for Interface export when Type Structure is Same and Value is of sam
     phonecode: '+91',
     isoCode: 'IN',
     flag: '🇮🇳',
-    currency: 'INR',
-    latitude: '20.00000000',
-    longitude: '77.00000000',
-    timezones: [{"zoneName":"Asia\/Kolkata","gmtOffset":19800,"gmtOffsetName":"UTC+05:30","abbreviation":"IST","tzName":"Indian Standard Time"}]
+    currency: 'INR'
   };
   let isCountry = isValidCountryObjectAndValueType(country)
   expect(isCountry).toEqual(true);
@@ -58,10 +52,7 @@ test('Check for Interface export when Type Structure is Same and Value is of sam
     phonecode: 91, // wrong type
     isoCode: 'IN',
     flag: '🇮🇳',
-    currency: 'INR',
-    latitude: '20.00000000',
-    longitude: '77.00000000',
-    timezones: [{"zoneName":"Asia\/Kolkata","gmtOffset":19800,"gmtOffsetName":"UTC+05:30","abbreviation":"IST","tzName":"Indian Standard Time"}]
+    currency: 'INR'
   };
   let isCountry = isValidCountryObjectAndValueType(country)
   expect(isCountry).toEqual(false);

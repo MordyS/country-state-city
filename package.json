@@ -1,7 +1,7 @@
 {
-  "name": "country-state-city",
-  "version": "2.0.0",
-  "description": "Library for fetching Country, its States and Cities",
+  "name": "country-state-city-slim",
+  "version": "1.0.2",
+  "description": "Library for fetching Country, its States and Cities (without Cities...)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -9,14 +9,14 @@
     "build": "tsc -p tsconfig.json",
     "lint": "eslint index.ts __test__ --fix"
   },
-  "author": "harpreetkhalsagtbit@gmail.com",
+  "author": "mordy, based on harpreetkhalsagtbit@gmail.com",
   "license": "GPL-3.0",
   "directories": {
     "lib": "lib"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harpreetkhalsagtbit/country-state-city.git"
+    "url": "git+https://github.com/MordyS/country-state-city.git"
   },
   "husky": {
     "hooks": {
@@ -33,9 +33,9 @@
     "Filter"
   ],
   "bugs": {
-    "url": "https://github.com/harpreetkhalsagtbit/country-state-city/issues"
+    "url": "https://github.com/MordyS/country-state-city/issues"
   },
-  "homepage": "https://github.com/harpreetkhalsagtbit/country-state-city#readme",
+  "homepage": "https://github.com/MordyS/country-state-city#readme",
   "devDependencies": {
     "@types/jest": "^26.0.19",
     "@typescript-eslint/eslint-plugin": "^4.12.0",
