@@ -9,7 +9,9 @@ const executeAllTests = function (csc: any) {
 			phonecode: '1',
 			isoCode: 'CA',
 			flag: '🇨🇦',
-			currency: 'CAD'
+			currency: 'CAD',
+			latitude: '60.00000000',
+			longitude: '-95.00000000'
 		});
 	});
 

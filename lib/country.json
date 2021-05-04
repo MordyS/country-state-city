@@ -4,1749 +4,2249 @@
         "name": "Afghanistan",
         "phonecode": "93",
         "flag": "🇦🇫",
-        "currency": "AFN"
+        "currency": "AFN",
+        "latitude": "33.00000000",
+        "longitude": "65.00000000"
     },
     {
         "isoCode": "AX",
         "name": "Aland Islands",
         "phonecode": "+358-18",
         "flag": "🇦🇽",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "60.11666700",
+        "longitude": "19.90000000"
     },
     {
         "isoCode": "AL",
         "name": "Albania",
         "phonecode": "355",
         "flag": "🇦🇱",
-        "currency": "ALL"
+        "currency": "ALL",
+        "latitude": "41.00000000",
+        "longitude": "20.00000000"
     },
     {
         "isoCode": "DZ",
         "name": "Algeria",
         "phonecode": "213",
         "flag": "🇩🇿",
-        "currency": "DZD"
+        "currency": "DZD",
+        "latitude": "28.00000000",
+        "longitude": "3.00000000"
     },
     {
         "isoCode": "AS",
         "name": "American Samoa",
         "phonecode": "+1-684",
         "flag": "🇦🇸",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "-14.33333333",
+        "longitude": "-170.00000000"
     },
     {
         "isoCode": "AD",
         "name": "Andorra",
         "phonecode": "376",
         "flag": "🇦🇩",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "42.50000000",
+        "longitude": "1.50000000"
     },
     {
         "isoCode": "AO",
         "name": "Angola",
         "phonecode": "244",
         "flag": "🇦🇴",
-        "currency": "AOA"
+        "currency": "AOA",
+        "latitude": "-12.50000000",
+        "longitude": "18.50000000"
     },
     {
         "isoCode": "AI",
         "name": "Anguilla",
         "phonecode": "+1-264",
         "flag": "🇦🇮",
-        "currency": "XCD"
+        "currency": "XCD",
+        "latitude": "18.25000000",
+        "longitude": "-63.16666666"
     },
     {
         "isoCode": "AQ",
         "name": "Antarctica",
         "phonecode": "",
         "flag": "🇦🇶",
-        "currency": ""
+        "currency": "",
+        "latitude": "-74.65000000",
+        "longitude": "4.48000000"
     },
     {
         "isoCode": "AG",
         "name": "Antigua And Barbuda",
         "phonecode": "+1-268",
         "flag": "🇦🇬",
-        "currency": "XCD"
+        "currency": "XCD",
+        "latitude": "17.05000000",
+        "longitude": "-61.80000000"
     },
     {
         "isoCode": "AR",
         "name": "Argentina",
         "phonecode": "54",
         "flag": "🇦🇷",
-        "currency": "ARS"
+        "currency": "ARS",
+        "latitude": "-34.00000000",
+        "longitude": "-64.00000000"
     },
     {
         "isoCode": "AM",
         "name": "Armenia",
         "phonecode": "374",
         "flag": "🇦🇲",
-        "currency": "AMD"
+        "currency": "AMD",
+        "latitude": "40.00000000",
+        "longitude": "45.00000000"
     },
     {
         "isoCode": "AW",
         "name": "Aruba",
         "phonecode": "297",
         "flag": "🇦🇼",
-        "currency": "AWG"
+        "currency": "AWG",
+        "latitude": "12.50000000",
+        "longitude": "-69.96666666"
     },
     {
         "isoCode": "AU",
         "name": "Australia",
         "phonecode": "61",
         "flag": "🇦🇺",
-        "currency": "AUD"
+        "currency": "AUD",
+        "latitude": "-27.00000000",
+        "longitude": "133.00000000"
     },
     {
         "isoCode": "AT",
         "name": "Austria",
         "phonecode": "43",
         "flag": "🇦🇹",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "47.33333333",
+        "longitude": "13.33333333"
     },
     {
         "isoCode": "AZ",
         "name": "Azerbaijan",
         "phonecode": "994",
         "flag": "🇦🇿",
-        "currency": "AZN"
+        "currency": "AZN",
+        "latitude": "40.50000000",
+        "longitude": "47.50000000"
     },
     {
         "isoCode": "BS",
         "name": "Bahamas The",
         "phonecode": "+1-242",
         "flag": "🇧🇸",
-        "currency": "BSD"
+        "currency": "BSD",
+        "latitude": "24.25000000",
+        "longitude": "-76.00000000"
     },
     {
         "isoCode": "BH",
         "name": "Bahrain",
         "phonecode": "973",
         "flag": "🇧🇭",
-        "currency": "BHD"
+        "currency": "BHD",
+        "latitude": "26.00000000",
+        "longitude": "50.55000000"
     },
     {
         "isoCode": "BD",
         "name": "Bangladesh",
         "phonecode": "880",
         "flag": "🇧🇩",
-        "currency": "BDT"
+        "currency": "BDT",
+        "latitude": "24.00000000",
+        "longitude": "90.00000000"
     },
     {
         "isoCode": "BB",
         "name": "Barbados",
         "phonecode": "+1-246",
         "flag": "🇧🇧",
-        "currency": "BBD"
+        "currency": "BBD",
+        "latitude": "13.16666666",
+        "longitude": "-59.53333333"
     },
     {
         "isoCode": "BY",
         "name": "Belarus",
         "phonecode": "375",
         "flag": "🇧🇾",
-        "currency": "BYN"
+        "currency": "BYN",
+        "latitude": "53.00000000",
+        "longitude": "28.00000000"
     },
     {
         "isoCode": "BE",
         "name": "Belgium",
         "phonecode": "32",
         "flag": "🇧🇪",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "50.83333333",
+        "longitude": "4.00000000"
     },
     {
         "isoCode": "BZ",
         "name": "Belize",
         "phonecode": "501",
         "flag": "🇧🇿",
-        "currency": "BZD"
+        "currency": "BZD",
+        "latitude": "17.25000000",
+        "longitude": "-88.75000000"
     },
     {
         "isoCode": "BJ",
         "name": "Benin",
         "phonecode": "229",
         "flag": "🇧🇯",
-        "currency": "XOF"
+        "currency": "XOF",
+        "latitude": "9.50000000",
+        "longitude": "2.25000000"
     },
     {
         "isoCode": "BM",
         "name": "Bermuda",
         "phonecode": "+1-441",
         "flag": "🇧🇲",
-        "currency": "BMD"
+        "currency": "BMD",
+        "latitude": "32.33333333",
+        "longitude": "-64.75000000"
     },
     {
         "isoCode": "BT",
         "name": "Bhutan",
         "phonecode": "975",
         "flag": "🇧🇹",
-        "currency": "BTN"
+        "currency": "BTN",
+        "latitude": "27.50000000",
+        "longitude": "90.50000000"
     },
     {
         "isoCode": "BO",
         "name": "Bolivia",
         "phonecode": "591",
         "flag": "🇧🇴",
-        "currency": "BOB"
+        "currency": "BOB",
+        "latitude": "-17.00000000",
+        "longitude": "-65.00000000"
     },
     {
         "isoCode": "BA",
         "name": "Bosnia and Herzegovina",
         "phonecode": "387",
         "flag": "🇧🇦",
-        "currency": "BAM"
+        "currency": "BAM",
+        "latitude": "44.00000000",
+        "longitude": "18.00000000"
     },
     {
         "isoCode": "BW",
         "name": "Botswana",
         "phonecode": "267",
         "flag": "🇧🇼",
-        "currency": "BWP"
+        "currency": "BWP",
+        "latitude": "-22.00000000",
+        "longitude": "24.00000000"
     },
     {
         "isoCode": "BV",
         "name": "Bouvet Island",
         "phonecode": "0055",
         "flag": "🇧🇻",
-        "currency": "NOK"
+        "currency": "NOK",
+        "latitude": "-54.43333333",
+        "longitude": "3.40000000"
     },
     {
         "isoCode": "BR",
         "name": "Brazil",
         "phonecode": "55",
         "flag": "🇧🇷",
-        "currency": "BRL"
+        "currency": "BRL",
+        "latitude": "-10.00000000",
+        "longitude": "-55.00000000"
     },
     {
         "isoCode": "IO",
         "name": "British Indian Ocean Territory",
         "phonecode": "246",
         "flag": "🇮🇴",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "-6.00000000",
+        "longitude": "71.50000000"
     },
     {
         "isoCode": "BN",
         "name": "Brunei",
         "phonecode": "673",
         "flag": "🇧🇳",
-        "currency": "BND"
+        "currency": "BND",
+        "latitude": "4.50000000",
+        "longitude": "114.66666666"
     },
     {
         "isoCode": "BG",
         "name": "Bulgaria",
         "phonecode": "359",
         "flag": "🇧🇬",
-        "currency": "BGN"
+        "currency": "BGN",
+        "latitude": "43.00000000",
+        "longitude": "25.00000000"
     },
     {
         "isoCode": "BF",
         "name": "Burkina Faso",
         "phonecode": "226",
         "flag": "🇧🇫",
-        "currency": "XOF"
+        "currency": "XOF",
+        "latitude": "13.00000000",
+        "longitude": "-2.00000000"
     },
     {
         "isoCode": "BI",
         "name": "Burundi",
         "phonecode": "257",
         "flag": "🇧🇮",
-        "currency": "BIF"
+        "currency": "BIF",
+        "latitude": "-3.50000000",
+        "longitude": "30.00000000"
     },
     {
         "isoCode": "KH",
         "name": "Cambodia",
         "phonecode": "855",
         "flag": "🇰🇭",
-        "currency": "KHR"
+        "currency": "KHR",
+        "latitude": "13.00000000",
+        "longitude": "105.00000000"
     },
     {
         "isoCode": "CM",
         "name": "Cameroon",
         "phonecode": "237",
         "flag": "🇨🇲",
-        "currency": "XAF"
+        "currency": "XAF",
+        "latitude": "6.00000000",
+        "longitude": "12.00000000"
     },
     {
         "isoCode": "CA",
         "name": "Canada",
         "phonecode": "1",
         "flag": "🇨🇦",
-        "currency": "CAD"
+        "currency": "CAD",
+        "latitude": "60.00000000",
+        "longitude": "-95.00000000"
     },
     {
         "isoCode": "CV",
         "name": "Cape Verde",
         "phonecode": "238",
         "flag": "🇨🇻",
-        "currency": "CVE"
+        "currency": "CVE",
+        "latitude": "16.00000000",
+        "longitude": "-24.00000000"
     },
     {
         "isoCode": "KY",
         "name": "Cayman Islands",
         "phonecode": "+1-345",
         "flag": "🇰🇾",
-        "currency": "KYD"
+        "currency": "KYD",
+        "latitude": "19.50000000",
+        "longitude": "-80.50000000"
     },
     {
         "isoCode": "CF",
         "name": "Central African Republic",
         "phonecode": "236",
         "flag": "🇨🇫",
-        "currency": "XAF"
+        "currency": "XAF",
+        "latitude": "7.00000000",
+        "longitude": "21.00000000"
     },
     {
         "isoCode": "TD",
         "name": "Chad",
         "phonecode": "235",
         "flag": "🇹🇩",
-        "currency": "XAF"
+        "currency": "XAF",
+        "latitude": "15.00000000",
+        "longitude": "19.00000000"
     },
     {
         "isoCode": "CL",
         "name": "Chile",
         "phonecode": "56",
         "flag": "🇨🇱",
-        "currency": "CLP"
+        "currency": "CLP",
+        "latitude": "-30.00000000",
+        "longitude": "-71.00000000"
     },
     {
         "isoCode": "CN",
         "name": "China",
         "phonecode": "86",
         "flag": "🇨🇳",
-        "currency": "CNY"
+        "currency": "CNY",
+        "latitude": "35.00000000",
+        "longitude": "105.00000000"
     },
     {
         "isoCode": "CX",
         "name": "Christmas Island",
         "phonecode": "61",
         "flag": "🇨🇽",
-        "currency": "AUD"
+        "currency": "AUD",
+        "latitude": "-10.50000000",
+        "longitude": "105.66666666"
     },
     {
         "isoCode": "CC",
         "name": "Cocos (Keeling) Islands",
         "phonecode": "61",
         "flag": "🇨🇨",
-        "currency": "AUD"
+        "currency": "AUD",
+        "latitude": "-12.50000000",
+        "longitude": "96.83333333"
     },
     {
         "isoCode": "CO",
         "name": "Colombia",
         "phonecode": "57",
         "flag": "🇨🇴",
-        "currency": "COP"
+        "currency": "COP",
+        "latitude": "4.00000000",
+        "longitude": "-72.00000000"
     },
     {
         "isoCode": "KM",
         "name": "Comoros",
         "phonecode": "269",
         "flag": "🇰🇲",
-        "currency": "KMF"
+        "currency": "KMF",
+        "latitude": "-12.16666666",
+        "longitude": "44.25000000"
     },
     {
         "isoCode": "CG",
         "name": "Congo",
         "phonecode": "242",
         "flag": "🇨🇬",
-        "currency": "XAF"
+        "currency": "XAF",
+        "latitude": "-1.00000000",
+        "longitude": "15.00000000"
     },
     {
         "isoCode": "CD",
         "name": "Congo The Democratic Republic Of The",
         "phonecode": "243",
         "flag": "🇨🇩",
-        "currency": "CDF"
+        "currency": "CDF",
+        "latitude": "0.00000000",
+        "longitude": "25.00000000"
     },
     {
         "isoCode": "CK",
         "name": "Cook Islands",
         "phonecode": "682",
         "flag": "🇨🇰",
-        "currency": "NZD"
+        "currency": "NZD",
+        "latitude": "-21.23333333",
+        "longitude": "-159.76666666"
     },
     {
         "isoCode": "CR",
         "name": "Costa Rica",
         "phonecode": "506",
         "flag": "🇨🇷",
-        "currency": "CRC"
+        "currency": "CRC",
+        "latitude": "10.00000000",
+        "longitude": "-84.00000000"
     },
     {
         "isoCode": "CI",
         "name": "Cote D'Ivoire (Ivory Coast)",
         "phonecode": "225",
         "flag": "🇨🇮",
-        "currency": "XOF"
+        "currency": "XOF",
+        "latitude": "8.00000000",
+        "longitude": "-5.00000000"
     },
     {
         "isoCode": "HR",
         "name": "Croatia (Hrvatska)",
         "phonecode": "385",
         "flag": "🇭🇷",
-        "currency": "HRK"
+        "currency": "HRK",
+        "latitude": "45.16666666",
+        "longitude": "15.50000000"
     },
     {
         "isoCode": "CU",
         "name": "Cuba",
         "phonecode": "53",
         "flag": "🇨🇺",
-        "currency": "CUP"
+        "currency": "CUP",
+        "latitude": "21.50000000",
+        "longitude": "-80.00000000"
     },
     {
         "isoCode": "CY",
         "name": "Cyprus",
         "phonecode": "357",
         "flag": "🇨🇾",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "35.00000000",
+        "longitude": "33.00000000"
     },
     {
         "isoCode": "CZ",
         "name": "Czech Republic",
         "phonecode": "420",
         "flag": "🇨🇿",
-        "currency": "CZK"
+        "currency": "CZK",
+        "latitude": "49.75000000",
+        "longitude": "15.50000000"
     },
     {
         "isoCode": "DK",
         "name": "Denmark",
         "phonecode": "45",
         "flag": "🇩🇰",
-        "currency": "DKK"
+        "currency": "DKK",
+        "latitude": "56.00000000",
+        "longitude": "10.00000000"
     },
     {
         "isoCode": "DJ",
         "name": "Djibouti",
         "phonecode": "253",
         "flag": "🇩🇯",
-        "currency": "DJF"
+        "currency": "DJF",
+        "latitude": "11.50000000",
+        "longitude": "43.00000000"
     },
     {
         "isoCode": "DM",
         "name": "Dominica",
         "phonecode": "+1-767",
         "flag": "🇩🇲",
-        "currency": "XCD"
+        "currency": "XCD",
+        "latitude": "15.41666666",
+        "longitude": "-61.33333333"
     },
     {
         "isoCode": "DO",
         "name": "Dominican Republic",
         "phonecode": "+1-809 and 1-829",
         "flag": "🇩🇴",
-        "currency": "DOP"
+        "currency": "DOP",
+        "latitude": "19.00000000",
+        "longitude": "-70.66666666"
     },
     {
         "isoCode": "TL",
         "name": "East Timor",
         "phonecode": "670",
         "flag": "🇹🇱",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "-8.83333333",
+        "longitude": "125.91666666"
     },
     {
         "isoCode": "EC",
         "name": "Ecuador",
         "phonecode": "593",
         "flag": "🇪🇨",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "-2.00000000",
+        "longitude": "-77.50000000"
     },
     {
         "isoCode": "EG",
         "name": "Egypt",
         "phonecode": "20",
         "flag": "🇪🇬",
-        "currency": "EGP"
+        "currency": "EGP",
+        "latitude": "27.00000000",
+        "longitude": "30.00000000"
     },
     {
         "isoCode": "SV",
         "name": "El Salvador",
         "phonecode": "503",
         "flag": "🇸🇻",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "13.83333333",
+        "longitude": "-88.91666666"
     },
     {
         "isoCode": "GQ",
         "name": "Equatorial Guinea",
         "phonecode": "240",
         "flag": "🇬🇶",
-        "currency": "XAF"
+        "currency": "XAF",
+        "latitude": "2.00000000",
+        "longitude": "10.00000000"
     },
     {
         "isoCode": "ER",
         "name": "Eritrea",
         "phonecode": "291",
         "flag": "🇪🇷",
-        "currency": "ERN"
+        "currency": "ERN",
+        "latitude": "15.00000000",
+        "longitude": "39.00000000"
     },
     {
         "isoCode": "EE",
         "name": "Estonia",
         "phonecode": "372",
         "flag": "🇪🇪",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "59.00000000",
+        "longitude": "26.00000000"
     },
     {
         "isoCode": "ET",
         "name": "Ethiopia",
         "phonecode": "251",
         "flag": "🇪🇹",
-        "currency": "ETB"
+        "currency": "ETB",
+        "latitude": "8.00000000",
+        "longitude": "38.00000000"
     },
     {
         "isoCode": "FK",
         "name": "Falkland Islands",
         "phonecode": "500",
         "flag": "🇫🇰",
-        "currency": "FKP"
+        "currency": "FKP",
+        "latitude": "-51.75000000",
+        "longitude": "-59.00000000"
     },
     {
         "isoCode": "FO",
         "name": "Faroe Islands",
         "phonecode": "298",
         "flag": "🇫🇴",
-        "currency": "DKK"
+        "currency": "DKK",
+        "latitude": "62.00000000",
+        "longitude": "-7.00000000"
     },
     {
         "isoCode": "FJ",
         "name": "Fiji Islands",
         "phonecode": "679",
         "flag": "🇫🇯",
-        "currency": "FJD"
+        "currency": "FJD",
+        "latitude": "-18.00000000",
+        "longitude": "175.00000000"
     },
     {
         "isoCode": "FI",
         "name": "Finland",
         "phonecode": "358",
         "flag": "🇫🇮",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "64.00000000",
+        "longitude": "26.00000000"
     },
     {
         "isoCode": "FR",
         "name": "France",
         "phonecode": "33",
         "flag": "🇫🇷",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "46.00000000",
+        "longitude": "2.00000000"
     },
     {
         "isoCode": "GF",
         "name": "French Guiana",
         "phonecode": "594",
         "flag": "🇬🇫",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "4.00000000",
+        "longitude": "-53.00000000"
     },
     {
         "isoCode": "PF",
         "name": "French Polynesia",
         "phonecode": "689",
         "flag": "🇵🇫",
-        "currency": "XPF"
+        "currency": "XPF",
+        "latitude": "-15.00000000",
+        "longitude": "-140.00000000"
     },
     {
         "isoCode": "TF",
         "name": "French Southern Territories",
         "phonecode": "",
         "flag": "🇹🇫",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "-49.25000000",
+        "longitude": "69.16700000"
     },
     {
         "isoCode": "GA",
         "name": "Gabon",
         "phonecode": "241",
         "flag": "🇬🇦",
-        "currency": "XAF"
+        "currency": "XAF",
+        "latitude": "-1.00000000",
+        "longitude": "11.75000000"
     },
     {
         "isoCode": "GM",
         "name": "Gambia The",
         "phonecode": "220",
         "flag": "🇬🇲",
-        "currency": "GMD"
+        "currency": "GMD",
+        "latitude": "13.46666666",
+        "longitude": "-16.56666666"
     },
     {
         "isoCode": "GE",
         "name": "Georgia",
         "phonecode": "995",
         "flag": "🇬🇪",
-        "currency": "GEL"
+        "currency": "GEL",
+        "latitude": "42.00000000",
+        "longitude": "43.50000000"
     },
     {
         "isoCode": "DE",
         "name": "Germany",
         "phonecode": "49",
         "flag": "🇩🇪",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "51.00000000",
+        "longitude": "9.00000000"
     },
     {
         "isoCode": "GH",
         "name": "Ghana",
         "phonecode": "233",
         "flag": "🇬🇭",
-        "currency": "GHS"
+        "currency": "GHS",
+        "latitude": "8.00000000",
+        "longitude": "-2.00000000"
     },
     {
         "isoCode": "GI",
         "name": "Gibraltar",
         "phonecode": "350",
         "flag": "🇬🇮",
-        "currency": "GIP"
+        "currency": "GIP",
+        "latitude": "36.13333333",
+        "longitude": "-5.35000000"
     },
     {
         "isoCode": "GR",
         "name": "Greece",
         "phonecode": "30",
         "flag": "🇬🇷",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "39.00000000",
+        "longitude": "22.00000000"
     },
     {
         "isoCode": "GL",
         "name": "Greenland",
         "phonecode": "299",
         "flag": "🇬🇱",
-        "currency": "DKK"
+        "currency": "DKK",
+        "latitude": "72.00000000",
+        "longitude": "-40.00000000"
     },
     {
         "isoCode": "GD",
         "name": "Grenada",
         "phonecode": "+1-473",
         "flag": "🇬🇩",
-        "currency": "XCD"
+        "currency": "XCD",
+        "latitude": "12.11666666",
+        "longitude": "-61.66666666"
     },
     {
         "isoCode": "GP",
         "name": "Guadeloupe",
         "phonecode": "590",
         "flag": "🇬🇵",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "16.25000000",
+        "longitude": "-61.58333300"
     },
     {
         "isoCode": "GU",
         "name": "Guam",
         "phonecode": "+1-671",
         "flag": "🇬🇺",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "13.46666666",
+        "longitude": "144.78333333"
     },
     {
         "isoCode": "GT",
         "name": "Guatemala",
         "phonecode": "502",
         "flag": "🇬🇹",
-        "currency": "GTQ"
+        "currency": "GTQ",
+        "latitude": "15.50000000",
+        "longitude": "-90.25000000"
     },
     {
         "isoCode": "GG",
         "name": "Guernsey and Alderney",
         "phonecode": "+44-1481",
         "flag": "🇬🇬",
-        "currency": "GBP"
+        "currency": "GBP",
+        "latitude": "49.46666666",
+        "longitude": "-2.58333333"
     },
     {
         "isoCode": "GN",
         "name": "Guinea",
         "phonecode": "224",
         "flag": "🇬🇳",
-        "currency": "GNF"
+        "currency": "GNF",
+        "latitude": "11.00000000",
+        "longitude": "-10.00000000"
     },
     {
         "isoCode": "GW",
         "name": "Guinea-Bissau",
         "phonecode": "245",
         "flag": "🇬🇼",
-        "currency": "XOF"
+        "currency": "XOF",
+        "latitude": "12.00000000",
+        "longitude": "-15.00000000"
     },
     {
         "isoCode": "GY",
         "name": "Guyana",
         "phonecode": "592",
         "flag": "🇬🇾",
-        "currency": "GYD"
+        "currency": "GYD",
+        "latitude": "5.00000000",
+        "longitude": "-59.00000000"
     },
     {
         "isoCode": "HT",
         "name": "Haiti",
         "phonecode": "509",
         "flag": "🇭🇹",
-        "currency": "HTG"
+        "currency": "HTG",
+        "latitude": "19.00000000",
+        "longitude": "-72.41666666"
     },
     {
         "isoCode": "HM",
         "name": "Heard Island and McDonald Islands",
         "phonecode": "",
         "flag": "🇭🇲",
-        "currency": "AUD"
+        "currency": "AUD",
+        "latitude": "-53.10000000",
+        "longitude": "72.51666666"
     },
     {
         "isoCode": "HN",
         "name": "Honduras",
         "phonecode": "504",
         "flag": "🇭🇳",
-        "currency": "HNL"
+        "currency": "HNL",
+        "latitude": "15.00000000",
+        "longitude": "-86.50000000"
     },
     {
         "isoCode": "HK",
         "name": "Hong Kong S.A.R.",
         "phonecode": "852",
         "flag": "🇭🇰",
-        "currency": "HKD"
+        "currency": "HKD",
+        "latitude": "22.25000000",
+        "longitude": "114.16666666"
     },
     {
         "isoCode": "HU",
         "name": "Hungary",
         "phonecode": "36",
         "flag": "🇭🇺",
-        "currency": "HUF"
+        "currency": "HUF",
+        "latitude": "47.00000000",
+        "longitude": "20.00000000"
     },
     {
         "isoCode": "IS",
         "name": "Iceland",
         "phonecode": "354",
         "flag": "🇮🇸",
-        "currency": "ISK"
+        "currency": "ISK",
+        "latitude": "65.00000000",
+        "longitude": "-18.00000000"
     },
     {
         "isoCode": "IN",
         "name": "India",
         "phonecode": "91",
         "flag": "🇮🇳",
-        "currency": "INR"
+        "currency": "INR",
+        "latitude": "20.00000000",
+        "longitude": "77.00000000"
     },
     {
         "isoCode": "ID",
         "name": "Indonesia",
         "phonecode": "62",
         "flag": "🇮🇩",
-        "currency": "IDR"
+        "currency": "IDR",
+        "latitude": "-5.00000000",
+        "longitude": "120.00000000"
     },
     {
         "isoCode": "IR",
         "name": "Iran",
         "phonecode": "98",
         "flag": "🇮🇷",
-        "currency": "IRR"
+        "currency": "IRR",
+        "latitude": "32.00000000",
+        "longitude": "53.00000000"
     },
     {
         "isoCode": "IQ",
         "name": "Iraq",
         "phonecode": "964",
         "flag": "🇮🇶",
-        "currency": "IQD"
+        "currency": "IQD",
+        "latitude": "33.00000000",
+        "longitude": "44.00000000"
     },
     {
         "isoCode": "IE",
         "name": "Ireland",
         "phonecode": "353",
         "flag": "🇮🇪",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "53.00000000",
+        "longitude": "-8.00000000"
     },
     {
         "isoCode": "IL",
         "name": "Israel",
         "phonecode": "972",
         "flag": "🇮🇱",
-        "currency": "ILS"
+        "currency": "ILS",
+        "latitude": "31.50000000",
+        "longitude": "34.75000000"
     },
     {
         "isoCode": "IT",
         "name": "Italy",
         "phonecode": "39",
         "flag": "🇮🇹",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "42.83333333",
+        "longitude": "12.83333333"
     },
     {
         "isoCode": "JM",
         "name": "Jamaica",
         "phonecode": "+1-876",
         "flag": "🇯🇲",
-        "currency": "JMD"
+        "currency": "JMD",
+        "latitude": "18.25000000",
+        "longitude": "-77.50000000"
     },
     {
         "isoCode": "JP",
         "name": "Japan",
         "phonecode": "81",
         "flag": "🇯🇵",
-        "currency": "JPY"
+        "currency": "JPY",
+        "latitude": "36.00000000",
+        "longitude": "138.00000000"
     },
     {
         "isoCode": "JE",
         "name": "Jersey",
         "phonecode": "+44-1534",
         "flag": "🇯🇪",
-        "currency": "GBP"
+        "currency": "GBP",
+        "latitude": "49.25000000",
+        "longitude": "-2.16666666"
     },
     {
         "isoCode": "JO",
         "name": "Jordan",
         "phonecode": "962",
         "flag": "🇯🇴",
-        "currency": "JOD"
+        "currency": "JOD",
+        "latitude": "31.00000000",
+        "longitude": "36.00000000"
     },
     {
         "isoCode": "KZ",
         "name": "Kazakhstan",
         "phonecode": "7",
         "flag": "🇰🇿",
-        "currency": "KZT"
+        "currency": "KZT",
+        "latitude": "48.00000000",
+        "longitude": "68.00000000"
     },
     {
         "isoCode": "KE",
         "name": "Kenya",
         "phonecode": "254",
         "flag": "🇰🇪",
-        "currency": "KES"
+        "currency": "KES",
+        "latitude": "1.00000000",
+        "longitude": "38.00000000"
     },
     {
         "isoCode": "KI",
         "name": "Kiribati",
         "phonecode": "686",
         "flag": "🇰🇮",
-        "currency": "AUD"
+        "currency": "AUD",
+        "latitude": "1.41666666",
+        "longitude": "173.00000000"
     },
     {
         "isoCode": "KP",
         "name": "Korea North",
         "phonecode": "850",
         "flag": "🇰🇵",
-        "currency": "KPW"
+        "currency": "KPW",
+        "latitude": "40.00000000",
+        "longitude": "127.00000000"
     },
     {
         "isoCode": "KR",
         "name": "Korea South",
         "phonecode": "82",
         "flag": "🇰🇷",
-        "currency": "KRW"
+        "currency": "KRW",
+        "latitude": "37.00000000",
+        "longitude": "127.50000000"
     },
     {
         "isoCode": "KW",
         "name": "Kuwait",
         "phonecode": "965",
         "flag": "🇰🇼",
-        "currency": "KWD"
+        "currency": "KWD",
+        "latitude": "29.50000000",
+        "longitude": "45.75000000"
     },
     {
         "isoCode": "KG",
         "name": "Kyrgyzstan",
         "phonecode": "996",
         "flag": "🇰🇬",
-        "currency": "KGS"
+        "currency": "KGS",
+        "latitude": "41.00000000",
+        "longitude": "75.00000000"
     },
     {
         "isoCode": "LA",
         "name": "Laos",
         "phonecode": "856",
         "flag": "🇱🇦",
-        "currency": "LAK"
+        "currency": "LAK",
+        "latitude": "18.00000000",
+        "longitude": "105.00000000"
     },
     {
         "isoCode": "LV",
         "name": "Latvia",
         "phonecode": "371",
         "flag": "🇱🇻",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "57.00000000",
+        "longitude": "25.00000000"
     },
     {
         "isoCode": "LB",
         "name": "Lebanon",
         "phonecode": "961",
         "flag": "🇱🇧",
-        "currency": "LBP"
+        "currency": "LBP",
+        "latitude": "33.83333333",
+        "longitude": "35.83333333"
     },
     {
         "isoCode": "LS",
         "name": "Lesotho",
         "phonecode": "266",
         "flag": "🇱🇸",
-        "currency": "LSL"
+        "currency": "LSL",
+        "latitude": "-29.50000000",
+        "longitude": "28.50000000"
     },
     {
         "isoCode": "LR",
         "name": "Liberia",
         "phonecode": "231",
         "flag": "🇱🇷",
-        "currency": "LRD"
+        "currency": "LRD",
+        "latitude": "6.50000000",
+        "longitude": "-9.50000000"
     },
     {
         "isoCode": "LY",
         "name": "Libya",
         "phonecode": "218",
         "flag": "🇱🇾",
-        "currency": "LYD"
+        "currency": "LYD",
+        "latitude": "25.00000000",
+        "longitude": "17.00000000"
     },
     {
         "isoCode": "LI",
         "name": "Liechtenstein",
         "phonecode": "423",
         "flag": "🇱🇮",
-        "currency": "CHF"
+        "currency": "CHF",
+        "latitude": "47.26666666",
+        "longitude": "9.53333333"
     },
     {
         "isoCode": "LT",
         "name": "Lithuania",
         "phonecode": "370",
         "flag": "🇱🇹",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "56.00000000",
+        "longitude": "24.00000000"
     },
     {
         "isoCode": "LU",
         "name": "Luxembourg",
         "phonecode": "352",
         "flag": "🇱🇺",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "49.75000000",
+        "longitude": "6.16666666"
     },
     {
         "isoCode": "MO",
         "name": "Macau S.A.R.",
         "phonecode": "853",
         "flag": "🇲🇴",
-        "currency": "MOP"
+        "currency": "MOP",
+        "latitude": "22.16666666",
+        "longitude": "113.55000000"
     },
     {
         "isoCode": "MK",
         "name": "Macedonia",
         "phonecode": "389",
         "flag": "🇲🇰",
-        "currency": "MKD"
+        "currency": "MKD",
+        "latitude": "41.83333333",
+        "longitude": "22.00000000"
     },
     {
         "isoCode": "MG",
         "name": "Madagascar",
         "phonecode": "261",
         "flag": "🇲🇬",
-        "currency": "MGA"
+        "currency": "MGA",
+        "latitude": "-20.00000000",
+        "longitude": "47.00000000"
     },
     {
         "isoCode": "MW",
         "name": "Malawi",
         "phonecode": "265",
         "flag": "🇲🇼",
-        "currency": "MWK"
+        "currency": "MWK",
+        "latitude": "-13.50000000",
+        "longitude": "34.00000000"
     },
     {
         "isoCode": "MY",
         "name": "Malaysia",
         "phonecode": "60",
         "flag": "🇲🇾",
-        "currency": "MYR"
+        "currency": "MYR",
+        "latitude": "2.50000000",
+        "longitude": "112.50000000"
     },
     {
         "isoCode": "MV",
         "name": "Maldives",
         "phonecode": "960",
         "flag": "🇲🇻",
-        "currency": "MVR"
+        "currency": "MVR",
+        "latitude": "3.25000000",
+        "longitude": "73.00000000"
     },
     {
         "isoCode": "ML",
         "name": "Mali",
         "phonecode": "223",
         "flag": "🇲🇱",
-        "currency": "XOF"
+        "currency": "XOF",
+        "latitude": "17.00000000",
+        "longitude": "-4.00000000"
     },
     {
         "isoCode": "MT",
         "name": "Malta",
         "phonecode": "356",
         "flag": "🇲🇹",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "35.83333333",
+        "longitude": "14.58333333"
     },
     {
         "isoCode": "IM",
         "name": "Man (Isle of)",
         "phonecode": "+44-1624",
         "flag": "🇮🇲",
-        "currency": "GBP"
+        "currency": "GBP",
+        "latitude": "54.25000000",
+        "longitude": "-4.50000000"
     },
     {
         "isoCode": "MH",
         "name": "Marshall Islands",
         "phonecode": "692",
         "flag": "🇲🇭",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "9.00000000",
+        "longitude": "168.00000000"
     },
     {
         "isoCode": "MQ",
         "name": "Martinique",
         "phonecode": "596",
         "flag": "🇲🇶",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "14.66666700",
+        "longitude": "-61.00000000"
     },
     {
         "isoCode": "MR",
         "name": "Mauritania",
         "phonecode": "222",
         "flag": "🇲🇷",
-        "currency": "MRO"
+        "currency": "MRO",
+        "latitude": "20.00000000",
+        "longitude": "-12.00000000"
     },
     {
         "isoCode": "MU",
         "name": "Mauritius",
         "phonecode": "230",
         "flag": "🇲🇺",
-        "currency": "MUR"
+        "currency": "MUR",
+        "latitude": "-20.28333333",
+        "longitude": "57.55000000"
     },
     {
         "isoCode": "YT",
         "name": "Mayotte",
         "phonecode": "262",
         "flag": "🇾🇹",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "-12.83333333",
+        "longitude": "45.16666666"
     },
     {
         "isoCode": "MX",
         "name": "Mexico",
         "phonecode": "52",
         "flag": "🇲🇽",
-        "currency": "MXN"
+        "currency": "MXN",
+        "latitude": "23.00000000",
+        "longitude": "-102.00000000"
     },
     {
         "isoCode": "FM",
         "name": "Micronesia",
         "phonecode": "691",
         "flag": "🇫🇲",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "6.91666666",
+        "longitude": "158.25000000"
     },
     {
         "isoCode": "MD",
         "name": "Moldova",
         "phonecode": "373",
         "flag": "🇲🇩",
-        "currency": "MDL"
+        "currency": "MDL",
+        "latitude": "47.00000000",
+        "longitude": "29.00000000"
     },
     {
         "isoCode": "MC",
         "name": "Monaco",
         "phonecode": "377",
         "flag": "🇲🇨",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "43.73333333",
+        "longitude": "7.40000000"
     },
     {
         "isoCode": "MN",
         "name": "Mongolia",
         "phonecode": "976",
         "flag": "🇲🇳",
-        "currency": "MNT"
+        "currency": "MNT",
+        "latitude": "46.00000000",
+        "longitude": "105.00000000"
     },
     {
         "isoCode": "ME",
         "name": "Montenegro",
         "phonecode": "382",
         "flag": "🇲🇪",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "42.50000000",
+        "longitude": "19.30000000"
     },
     {
         "isoCode": "MS",
         "name": "Montserrat",
         "phonecode": "+1-664",
         "flag": "🇲🇸",
-        "currency": "XCD"
+        "currency": "XCD",
+        "latitude": "16.75000000",
+        "longitude": "-62.20000000"
     },
     {
         "isoCode": "MA",
         "name": "Morocco",
         "phonecode": "212",
         "flag": "🇲🇦",
-        "currency": "MAD"
+        "currency": "MAD",
+        "latitude": "32.00000000",
+        "longitude": "-5.00000000"
     },
     {
         "isoCode": "MZ",
         "name": "Mozambique",
         "phonecode": "258",
         "flag": "🇲🇿",
-        "currency": "MZN"
+        "currency": "MZN",
+        "latitude": "-18.25000000",
+        "longitude": "35.00000000"
     },
     {
         "isoCode": "MM",
         "name": "Myanmar",
         "phonecode": "95",
         "flag": "🇲🇲",
-        "currency": "MMK"
+        "currency": "MMK",
+        "latitude": "22.00000000",
+        "longitude": "98.00000000"
     },
     {
         "isoCode": "NA",
         "name": "Namibia",
         "phonecode": "264",
         "flag": "🇳🇦",
-        "currency": "NAD"
+        "currency": "NAD",
+        "latitude": "-22.00000000",
+        "longitude": "17.00000000"
     },
     {
         "isoCode": "NR",
         "name": "Nauru",
         "phonecode": "674",
         "flag": "🇳🇷",
-        "currency": "AUD"
+        "currency": "AUD",
+        "latitude": "-0.53333333",
+        "longitude": "166.91666666"
     },
     {
         "isoCode": "NP",
         "name": "Nepal",
         "phonecode": "977",
         "flag": "🇳🇵",
-        "currency": "NPR"
+        "currency": "NPR",
+        "latitude": "28.00000000",
+        "longitude": "84.00000000"
     },
     {
         "isoCode": "BQ",
         "name": "Bonaire, Sint Eustatius and Saba",
         "phonecode": "599",
         "flag": "🇧🇶",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "12.15000000",
+        "longitude": "-68.26666700"
     },
     {
         "isoCode": "NL",
         "name": "Netherlands The",
         "phonecode": "31",
         "flag": "🇳🇱",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "52.50000000",
+        "longitude": "5.75000000"
     },
     {
         "isoCode": "NC",
         "name": "New Caledonia",
         "phonecode": "687",
         "flag": "🇳🇨",
-        "currency": "XPF"
+        "currency": "XPF",
+        "latitude": "-21.50000000",
+        "longitude": "165.50000000"
     },
     {
         "isoCode": "NZ",
         "name": "New Zealand",
         "phonecode": "64",
         "flag": "🇳🇿",
-        "currency": "NZD"
+        "currency": "NZD",
+        "latitude": "-41.00000000",
+        "longitude": "174.00000000"
     },
     {
         "isoCode": "NI",
         "name": "Nicaragua",
         "phonecode": "505",
         "flag": "🇳🇮",
-        "currency": "NIO"
+        "currency": "NIO",
+        "latitude": "13.00000000",
+        "longitude": "-85.00000000"
     },
     {
         "isoCode": "NE",
         "name": "Niger",
         "phonecode": "227",
         "flag": "🇳🇪",
-        "currency": "XOF"
+        "currency": "XOF",
+        "latitude": "16.00000000",
+        "longitude": "8.00000000"
     },
     {
         "isoCode": "NG",
         "name": "Nigeria",
         "phonecode": "234",
         "flag": "🇳🇬",
-        "currency": "NGN"
+        "currency": "NGN",
+        "latitude": "10.00000000",
+        "longitude": "8.00000000"
     },
     {
         "isoCode": "NU",
         "name": "Niue",
         "phonecode": "683",
         "flag": "🇳🇺",
-        "currency": "NZD"
+        "currency": "NZD",
+        "latitude": "-19.03333333",
+        "longitude": "-169.86666666"
     },
     {
         "isoCode": "NF",
         "name": "Norfolk Island",
         "phonecode": "672",
         "flag": "🇳🇫",
-        "currency": "AUD"
+        "currency": "AUD",
+        "latitude": "-29.03333333",
+        "longitude": "167.95000000"
     },
     {
         "isoCode": "MP",
         "name": "Northern Mariana Islands",
         "phonecode": "+1-670",
         "flag": "🇲🇵",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "15.20000000",
+        "longitude": "145.75000000"
     },
     {
         "isoCode": "NO",
         "name": "Norway",
         "phonecode": "47",
         "flag": "🇳🇴",
-        "currency": "NOK"
+        "currency": "NOK",
+        "latitude": "62.00000000",
+        "longitude": "10.00000000"
     },
     {
         "isoCode": "OM",
         "name": "Oman",
         "phonecode": "968",
         "flag": "🇴🇲",
-        "currency": "OMR"
+        "currency": "OMR",
+        "latitude": "21.00000000",
+        "longitude": "57.00000000"
     },
     {
         "isoCode": "PK",
         "name": "Pakistan",
         "phonecode": "92",
         "flag": "🇵🇰",
-        "currency": "PKR"
+        "currency": "PKR",
+        "latitude": "30.00000000",
+        "longitude": "70.00000000"
     },
     {
         "isoCode": "PW",
         "name": "Palau",
         "phonecode": "680",
         "flag": "🇵🇼",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "7.50000000",
+        "longitude": "134.50000000"
     },
     {
         "isoCode": "PS",
         "name": "Palestinian Territory Occupied",
         "phonecode": "970",
         "flag": "🇵🇸",
-        "currency": "ILS"
+        "currency": "ILS",
+        "latitude": "31.90000000",
+        "longitude": "35.20000000"
     },
     {
         "isoCode": "PA",
         "name": "Panama",
         "phonecode": "507",
         "flag": "🇵🇦",
-        "currency": "PAB"
+        "currency": "PAB",
+        "latitude": "9.00000000",
+        "longitude": "-80.00000000"
     },
     {
         "isoCode": "PG",
         "name": "Papua new Guinea",
         "phonecode": "675",
         "flag": "🇵🇬",
-        "currency": "PGK"
+        "currency": "PGK",
+        "latitude": "-6.00000000",
+        "longitude": "147.00000000"
     },
     {
         "isoCode": "PY",
         "name": "Paraguay",
         "phonecode": "595",
         "flag": "🇵🇾",
-        "currency": "PYG"
+        "currency": "PYG",
+        "latitude": "-23.00000000",
+        "longitude": "-58.00000000"
     },
     {
         "isoCode": "PE",
         "name": "Peru",
         "phonecode": "51",
         "flag": "🇵🇪",
-        "currency": "PEN"
+        "currency": "PEN",
+        "latitude": "-10.00000000",
+        "longitude": "-76.00000000"
     },
     {
         "isoCode": "PH",
         "name": "Philippines",
         "phonecode": "63",
         "flag": "🇵🇭",
-        "currency": "PHP"
+        "currency": "PHP",
+        "latitude": "13.00000000",
+        "longitude": "122.00000000"
     },
     {
         "isoCode": "PN",
         "name": "Pitcairn Island",
         "phonecode": "870",
         "flag": "🇵🇳",
-        "currency": "NZD"
+        "currency": "NZD",
+        "latitude": "-25.06666666",
+        "longitude": "-130.10000000"
     },
     {
         "isoCode": "PL",
         "name": "Poland",
         "phonecode": "48",
         "flag": "🇵🇱",
-        "currency": "PLN"
+        "currency": "PLN",
+        "latitude": "52.00000000",
+        "longitude": "20.00000000"
     },
     {
         "isoCode": "PT",
         "name": "Portugal",
         "phonecode": "351",
         "flag": "🇵🇹",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "39.50000000",
+        "longitude": "-8.00000000"
     },
     {
         "isoCode": "PR",
         "name": "Puerto Rico",
         "phonecode": "+1-787 and 1-939",
         "flag": "🇵🇷",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "18.25000000",
+        "longitude": "-66.50000000"
     },
     {
         "isoCode": "QA",
         "name": "Qatar",
         "phonecode": "974",
         "flag": "🇶🇦",
-        "currency": "QAR"
+        "currency": "QAR",
+        "latitude": "25.50000000",
+        "longitude": "51.25000000"
     },
     {
         "isoCode": "RE",
         "name": "Reunion",
         "phonecode": "262",
         "flag": "🇷🇪",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "-21.15000000",
+        "longitude": "55.50000000"
     },
     {
         "isoCode": "RO",
         "name": "Romania",
         "phonecode": "40",
         "flag": "🇷🇴",
-        "currency": "RON"
+        "currency": "RON",
+        "latitude": "46.00000000",
+        "longitude": "25.00000000"
     },
     {
         "isoCode": "RU",
         "name": "Russia",
         "phonecode": "7",
         "flag": "🇷🇺",
-        "currency": "RUB"
+        "currency": "RUB",
+        "latitude": "60.00000000",
+        "longitude": "100.00000000"
     },
     {
         "isoCode": "RW",
         "name": "Rwanda",
         "phonecode": "250",
         "flag": "🇷🇼",
-        "currency": "RWF"
+        "currency": "RWF",
+        "latitude": "-2.00000000",
+        "longitude": "30.00000000"
     },
     {
         "isoCode": "SH",
         "name": "Saint Helena",
         "phonecode": "290",
         "flag": "🇸🇭",
-        "currency": "SHP"
+        "currency": "SHP",
+        "latitude": "-15.95000000",
+        "longitude": "-5.70000000"
     },
     {
         "isoCode": "KN",
         "name": "Saint Kitts And Nevis",
         "phonecode": "+1-869",
         "flag": "🇰🇳",
-        "currency": "XCD"
+        "currency": "XCD",
+        "latitude": "17.33333333",
+        "longitude": "-62.75000000"
     },
     {
         "isoCode": "LC",
         "name": "Saint Lucia",
         "phonecode": "+1-758",
         "flag": "🇱🇨",
-        "currency": "XCD"
+        "currency": "XCD",
+        "latitude": "13.88333333",
+        "longitude": "-60.96666666"
     },
     {
         "isoCode": "PM",
         "name": "Saint Pierre and Miquelon",
         "phonecode": "508",
         "flag": "🇵🇲",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "46.83333333",
+        "longitude": "-56.33333333"
     },
     {
         "isoCode": "VC",
         "name": "Saint Vincent And The Grenadines",
         "phonecode": "+1-784",
         "flag": "🇻🇨",
-        "currency": "XCD"
+        "currency": "XCD",
+        "latitude": "13.25000000",
+        "longitude": "-61.20000000"
     },
     {
         "isoCode": "BL",
         "name": "Saint-Barthelemy",
         "phonecode": "590",
         "flag": "🇧🇱",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "18.50000000",
+        "longitude": "-63.41666666"
     },
     {
         "isoCode": "MF",
         "name": "Saint-Martin (French part)",
         "phonecode": "590",
         "flag": "🇲🇫",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "18.08333333",
+        "longitude": "-63.95000000"
     },
     {
         "isoCode": "WS",
         "name": "Samoa",
         "phonecode": "685",
         "flag": "🇼🇸",
-        "currency": "WST"
+        "currency": "WST",
+        "latitude": "-13.58333333",
+        "longitude": "-172.33333333"
     },
     {
         "isoCode": "SM",
         "name": "San Marino",
         "phonecode": "378",
         "flag": "🇸🇲",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "43.76666666",
+        "longitude": "12.41666666"
     },
     {
         "isoCode": "ST",
         "name": "Sao Tome and Principe",
         "phonecode": "239",
         "flag": "🇸🇹",
-        "currency": "STD"
+        "currency": "STD",
+        "latitude": "1.00000000",
+        "longitude": "7.00000000"
     },
     {
         "isoCode": "SA",
         "name": "Saudi Arabia",
         "phonecode": "966",
         "flag": "🇸🇦",
-        "currency": "SAR"
+        "currency": "SAR",
+        "latitude": "25.00000000",
+        "longitude": "45.00000000"
     },
     {
         "isoCode": "SN",
         "name": "Senegal",
         "phonecode": "221",
         "flag": "🇸🇳",
-        "currency": "XOF"
+        "currency": "XOF",
+        "latitude": "14.00000000",
+        "longitude": "-14.00000000"
     },
     {
         "isoCode": "RS",
         "name": "Serbia",
         "phonecode": "381",
         "flag": "🇷🇸",
-        "currency": "RSD"
+        "currency": "RSD",
+        "latitude": "44.00000000",
+        "longitude": "21.00000000"
     },
     {
         "isoCode": "SC",
         "name": "Seychelles",
         "phonecode": "248",
         "flag": "🇸🇨",
-        "currency": "SCR"
+        "currency": "SCR",
+        "latitude": "-4.58333333",
+        "longitude": "55.66666666"
     },
     {
         "isoCode": "SL",
         "name": "Sierra Leone",
         "phonecode": "232",
         "flag": "🇸🇱",
-        "currency": "SLL"
+        "currency": "SLL",
+        "latitude": "8.50000000",
+        "longitude": "-11.50000000"
     },
     {
         "isoCode": "SG",
         "name": "Singapore",
         "phonecode": "65",
         "flag": "🇸🇬",
-        "currency": "SGD"
+        "currency": "SGD",
+        "latitude": "1.36666666",
+        "longitude": "103.80000000"
     },
     {
         "isoCode": "SK",
         "name": "Slovakia",
         "phonecode": "421",
         "flag": "🇸🇰",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "48.66666666",
+        "longitude": "19.50000000"
     },
     {
         "isoCode": "SI",
         "name": "Slovenia",
         "phonecode": "386",
         "flag": "🇸🇮",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "46.11666666",
+        "longitude": "14.81666666"
     },
     {
         "isoCode": "SB",
         "name": "Solomon Islands",
         "phonecode": "677",
         "flag": "🇸🇧",
-        "currency": "SBD"
+        "currency": "SBD",
+        "latitude": "-8.00000000",
+        "longitude": "159.00000000"
     },
     {
         "isoCode": "SO",
         "name": "Somalia",
         "phonecode": "252",
         "flag": "🇸🇴",
-        "currency": "SOS"
+        "currency": "SOS",
+        "latitude": "10.00000000",
+        "longitude": "49.00000000"
     },
     {
         "isoCode": "ZA",
         "name": "South Africa",
         "phonecode": "27",
         "flag": "🇿🇦",
-        "currency": "ZAR"
+        "currency": "ZAR",
+        "latitude": "-29.00000000",
+        "longitude": "24.00000000"
     },
     {
         "isoCode": "GS",
         "name": "South Georgia",
         "phonecode": "",
         "flag": "🇬🇸",
-        "currency": "GBP"
+        "currency": "GBP",
+        "latitude": "-54.50000000",
+        "longitude": "-37.00000000"
     },
     {
         "isoCode": "SS",
         "name": "South Sudan",
         "phonecode": "211",
         "flag": "🇸🇸",
-        "currency": "SSP"
+        "currency": "SSP",
+        "latitude": "7.00000000",
+        "longitude": "30.00000000"
     },
     {
         "isoCode": "ES",
         "name": "Spain",
         "phonecode": "34",
         "flag": "🇪🇸",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "40.00000000",
+        "longitude": "-4.00000000"
     },
     {
         "isoCode": "LK",
         "name": "Sri Lanka",
         "phonecode": "94",
         "flag": "🇱🇰",
-        "currency": "LKR"
+        "currency": "LKR",
+        "latitude": "7.00000000",
+        "longitude": "81.00000000"
     },
     {
         "isoCode": "SD",
         "name": "Sudan",
         "phonecode": "249",
         "flag": "🇸🇩",
-        "currency": "SDG"
+        "currency": "SDG",
+        "latitude": "15.00000000",
+        "longitude": "30.00000000"
     },
     {
         "isoCode": "SR",
         "name": "Suriname",
         "phonecode": "597",
         "flag": "🇸🇷",
-        "currency": "SRD"
+        "currency": "SRD",
+        "latitude": "4.00000000",
+        "longitude": "-56.00000000"
     },
     {
         "isoCode": "SJ",
         "name": "Svalbard And Jan Mayen Islands",
         "phonecode": "47",
         "flag": "🇸🇯",
-        "currency": "NOK"
+        "currency": "NOK",
+        "latitude": "78.00000000",
+        "longitude": "20.00000000"
     },
     {
         "isoCode": "SZ",
         "name": "Swaziland",
         "phonecode": "268",
         "flag": "🇸🇿",
-        "currency": "SZL"
+        "currency": "SZL",
+        "latitude": "-26.50000000",
+        "longitude": "31.50000000"
     },
     {
         "isoCode": "SE",
         "name": "Sweden",
         "phonecode": "46",
         "flag": "🇸🇪",
-        "currency": "SEK"
+        "currency": "SEK",
+        "latitude": "62.00000000",
+        "longitude": "15.00000000"
     },
     {
         "isoCode": "CH",
         "name": "Switzerland",
         "phonecode": "41",
         "flag": "🇨🇭",
-        "currency": "CHF"
+        "currency": "CHF",
+        "latitude": "47.00000000",
+        "longitude": "8.00000000"
     },
     {
         "isoCode": "SY",
         "name": "Syria",
         "phonecode": "963",
         "flag": "🇸🇾",
-        "currency": "SYP"
+        "currency": "SYP",
+        "latitude": "35.00000000",
+        "longitude": "38.00000000"
     },
     {
         "isoCode": "TW",
         "name": "Taiwan",
         "phonecode": "886",
         "flag": "🇹🇼",
-        "currency": "TWD"
+        "currency": "TWD",
+        "latitude": "23.50000000",
+        "longitude": "121.00000000"
     },
     {
         "isoCode": "TJ",
         "name": "Tajikistan",
         "phonecode": "992",
         "flag": "🇹🇯",
-        "currency": "TJS"
+        "currency": "TJS",
+        "latitude": "39.00000000",
+        "longitude": "71.00000000"
     },
     {
         "isoCode": "TZ",
         "name": "Tanzania",
         "phonecode": "255",
         "flag": "🇹🇿",
-        "currency": "TZS"
+        "currency": "TZS",
+        "latitude": "-6.00000000",
+        "longitude": "35.00000000"
     },
     {
         "isoCode": "TH",
         "name": "Thailand",
         "phonecode": "66",
         "flag": "🇹🇭",
-        "currency": "THB"
+        "currency": "THB",
+        "latitude": "15.00000000",
+        "longitude": "100.00000000"
     },
     {
         "isoCode": "TG",
         "name": "Togo",
         "phonecode": "228",
         "flag": "🇹🇬",
-        "currency": "XOF"
+        "currency": "XOF",
+        "latitude": "8.00000000",
+        "longitude": "1.16666666"
     },
     {
         "isoCode": "TK",
         "name": "Tokelau",
         "phonecode": "690",
         "flag": "🇹🇰",
-        "currency": "NZD"
+        "currency": "NZD",
+        "latitude": "-9.00000000",
+        "longitude": "-172.00000000"
     },
     {
         "isoCode": "TO",
         "name": "Tonga",
         "phonecode": "676",
         "flag": "🇹🇴",
-        "currency": "TOP"
+        "currency": "TOP",
+        "latitude": "-20.00000000",
+        "longitude": "-175.00000000"
     },
     {
         "isoCode": "TT",
         "name": "Trinidad And Tobago",
         "phonecode": "+1-868",
         "flag": "🇹🇹",
-        "currency": "TTD"
+        "currency": "TTD",
+        "latitude": "11.00000000",
+        "longitude": "-61.00000000"
     },
     {
         "isoCode": "TN",
         "name": "Tunisia",
         "phonecode": "216",
         "flag": "🇹🇳",
-        "currency": "TND"
+        "currency": "TND",
+        "latitude": "34.00000000",
+        "longitude": "9.00000000"
     },
     {
         "isoCode": "TR",
         "name": "Turkey",
         "phonecode": "90",
         "flag": "🇹🇷",
-        "currency": "TRY"
+        "currency": "TRY",
+        "latitude": "39.00000000",
+        "longitude": "35.00000000"
     },
     {
         "isoCode": "TM",
         "name": "Turkmenistan",
         "phonecode": "993",
         "flag": "🇹🇲",
-        "currency": "TMT"
+        "currency": "TMT",
+        "latitude": "40.00000000",
+        "longitude": "60.00000000"
     },
     {
         "isoCode": "TC",
         "name": "Turks And Caicos Islands",
         "phonecode": "+1-649",
         "flag": "🇹🇨",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "21.75000000",
+        "longitude": "-71.58333333"
     },
     {
         "isoCode": "TV",
         "name": "Tuvalu",
         "phonecode": "688",
         "flag": "🇹🇻",
-        "currency": "AUD"
+        "currency": "AUD",
+        "latitude": "-8.00000000",
+        "longitude": "178.00000000"
     },
     {
         "isoCode": "UG",
         "name": "Uganda",
         "phonecode": "256",
         "flag": "🇺🇬",
-        "currency": "UGX"
+        "currency": "UGX",
+        "latitude": "1.00000000",
+        "longitude": "32.00000000"
     },
     {
         "isoCode": "UA",
         "name": "Ukraine",
         "phonecode": "380",
         "flag": "🇺🇦",
-        "currency": "UAH"
+        "currency": "UAH",
+        "latitude": "49.00000000",
+        "longitude": "32.00000000"
     },
     {
         "isoCode": "AE",
         "name": "United Arab Emirates",
         "phonecode": "971",
         "flag": "🇦🇪",
-        "currency": "AED"
+        "currency": "AED",
+        "latitude": "24.00000000",
+        "longitude": "54.00000000"
     },
     {
         "isoCode": "GB",
         "name": "United Kingdom",
         "phonecode": "44",
         "flag": "🇬🇧",
-        "currency": "GBP"
+        "currency": "GBP",
+        "latitude": "54.00000000",
+        "longitude": "-2.00000000"
     },
     {
         "isoCode": "US",
         "name": "United States",
         "phonecode": "1",
         "flag": "🇺🇸",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "38.00000000",
+        "longitude": "-97.00000000"
     },
     {
         "isoCode": "UM",
         "name": "United States Minor Outlying Islands",
         "phonecode": "1",
         "flag": "🇺🇲",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "0.00000000",
+        "longitude": "0.00000000"
     },
     {
         "isoCode": "UY",
         "name": "Uruguay",
         "phonecode": "598",
         "flag": "🇺🇾",
-        "currency": "UYU"
+        "currency": "UYU",
+        "latitude": "-33.00000000",
+        "longitude": "-56.00000000"
     },
     {
         "isoCode": "UZ",
         "name": "Uzbekistan",
         "phonecode": "998",
         "flag": "🇺🇿",
-        "currency": "UZS"
+        "currency": "UZS",
+        "latitude": "41.00000000",
+        "longitude": "64.00000000"
     },
     {
         "isoCode": "VU",
         "name": "Vanuatu",
         "phonecode": "678",
         "flag": "🇻🇺",
-        "currency": "VUV"
+        "currency": "VUV",
+        "latitude": "-16.00000000",
+        "longitude": "167.00000000"
     },
     {
         "isoCode": "VA",
         "name": "Vatican City State (Holy See)",
         "phonecode": "379",
         "flag": "🇻🇦",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "41.90000000",
+        "longitude": "12.45000000"
     },
     {
         "isoCode": "VE",
         "name": "Venezuela",
         "phonecode": "58",
         "flag": "🇻🇪",
-        "currency": "VEF"
+        "currency": "VEF",
+        "latitude": "8.00000000",
+        "longitude": "-66.00000000"
     },
     {
         "isoCode": "VN",
         "name": "Vietnam",
         "phonecode": "84",
         "flag": "🇻🇳",
-        "currency": "VND"
+        "currency": "VND",
+        "latitude": "16.16666666",
+        "longitude": "107.83333333"
     },
     {
         "isoCode": "VG",
         "name": "Virgin Islands (British)",
         "phonecode": "+1-284",
         "flag": "🇻🇬",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "18.43138300",
+        "longitude": "-64.62305000"
     },
     {
         "isoCode": "VI",
         "name": "Virgin Islands (US)",
         "phonecode": "+1-340",
         "flag": "🇻🇮",
-        "currency": "USD"
+        "currency": "USD",
+        "latitude": "18.34000000",
+        "longitude": "-64.93000000"
     },
     {
         "isoCode": "WF",
         "name": "Wallis And Futuna Islands",
         "phonecode": "681",
         "flag": "🇼🇫",
-        "currency": "XPF"
+        "currency": "XPF",
+        "latitude": "-13.30000000",
+        "longitude": "-176.20000000"
     },
     {
         "isoCode": "EH",
         "name": "Western Sahara",
         "phonecode": "212",
         "flag": "🇪🇭",
-        "currency": "MAD"
+        "currency": "MAD",
+        "latitude": "24.50000000",
+        "longitude": "-13.00000000"
     },
     {
         "isoCode": "YE",
         "name": "Yemen",
         "phonecode": "967",
         "flag": "🇾🇪",
-        "currency": "YER"
+        "currency": "YER",
+        "latitude": "15.00000000",
+        "longitude": "48.00000000"
     },
     {
         "isoCode": "ZM",
         "name": "Zambia",
         "phonecode": "260",
         "flag": "🇿🇲",
-        "currency": "ZMW"
+        "currency": "ZMW",
+        "latitude": "-15.00000000",
+        "longitude": "30.00000000"
     },
     {
         "isoCode": "ZW",
         "name": "Zimbabwe",
         "phonecode": "263",
         "flag": "🇿🇼",
-        "currency": "ZWL"
+        "currency": "ZWL",
+        "latitude": "-20.00000000",
+        "longitude": "30.00000000"
     },
     {
         "isoCode": "XK",
         "name": "Kosovo",
         "phonecode": "383",
         "flag": "🇽🇰",
-        "currency": "EUR"
+        "currency": "EUR",
+        "latitude": "42.56129090",
+        "longitude": "20.34030350"
     },
     {
         "isoCode": "CW",
         "name": "Curaçao",
         "phonecode": "599",
         "flag": "🇨🇼",
-        "currency": "ANG"
+        "currency": "ANG",
+        "latitude": "12.11666700",
+        "longitude": "-68.93333300"
     },
     {
         "isoCode": "SX",
         "name": "Sint Maarten (Dutch part)",
         "phonecode": "1721",
         "flag": "🇸🇽",
-        "currency": "ANG"
+        "currency": "ANG",
+        "latitude": "18.03333300",
+        "longitude": "-63.05000000"
     }
 ]

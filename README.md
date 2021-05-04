@@ -3,8 +3,8 @@ NOTE!
 This is a slim version of country-state-city
 forked from [here](https://github.com/harpreetkhalsagtbit/country-state-city)
 I removed the timezones and the cities and everithing i don't need
-it's only for my specific use where i'm trying to decrease the size of my project
-please use [the original npm package](https://www.npmjs.com/package/country-state-city)
+in order to decrease the size of my project
+if you want, please use [the original npm package](https://www.npmjs.com/package/country-state-city)
 
 # country-state-city
 Basic library for Country, State and City
@@ -14,40 +14,7 @@ https://github.com/dr5hn/countries-states-cities-database<br>
 For any data related issue, you can raise a Issue [here](https://github.com/dr5hn/countries-states-cities-database/issues/new).
 
 # Install
-`npm i country-state-city`
-
-# Usage
-
-## Latest Release : `v2.0.0` (Major Version Release - Not backward compatible)
-  - ES6 Module usage
-   
-     ```js
-     import csc from 'country-state-city'
-
-     // Import Interfaces`
-     import { ICountry, IState, ICity } from 'country-state-city'
-     ```
-  - AMD Module usage
-  
-    ```js
-    let csc = require('country-state-city').default
-    ```
-
-
-## For versions `v0.1.8 and below`
-
-  - ES6 Module usage
-   
-     ```js
-     import csc from 'country-state-city'
-     ```
-
-  - AMD Module usage
-  
-    ```js
-    let csc = require('country-state-city')
-    ```
-
+`npm i country-state-city-slim`
 # Docs
 
 getCountryByCode(code)
@@ -65,16 +32,7 @@ type: **json | ICountry**
 	"flag": "🇮🇳",
 	"currency": "INR",
 	"latitude": "20.00000000",
-	"longitude": "77.00000000",
-	"timezones": [
-		{
-			"zoneName": "Asia\/Kolkata",
-			"gmtOffset": 19800,
-			"gmtOffsetName": "UTC+05:30",
-			"abbreviation": "IST",
-			"tzName": "Indian Standard Time"
-		}
-	]
+	"longitude": "77.00000000"
 }
 ```
 
@@ -97,45 +55,6 @@ type: **array of json | IState**
 ]
 
 ```
-getCitiesOfState(countryCode, stateCode)
----------------
-
-It accepts a valid `CountryCode`, `StateCode` and returns *all Cities* as Array of JSON
-
-type: **array of json | ICity**
-
-```js
-[
-	{
-		"name": "New Delhi",
-		"countryCode": "IN",
-		"stateCode": "DL",
-		"latitude": "28.63576000",
-		"longitude": "77.22445000"
-	}
-]
-
-```
-
-getCitiesOfCountry(countryCode)
----------------
-
-It accepts a valid `CountryCode` and returns *all Cities* as Array of JSON
-
-type: **array of json | ICity**
-
-```js
-[
-	{
-		"name": "New Delhi",
-		"countryCode": "IN",
-		"stateCode": "DL",
-		"latitude": "28.63576000",
-		"longitude": "77.22445000"
-	}
-]
-
-```
 
 getAllCountries
 ---------------
@@ -152,16 +71,7 @@ type: **array of json | ICountry**
 		"flag": "🇮🇳",
 		"currency": "INR",
 		"latitude": "20.00000000",
-		"longitude": "77.00000000",
-		"timezones": [
-			{
-				"zoneName": "Asia\/Kolkata",
-				"gmtOffset": 19800,
-				"gmtOffsetName": "UTC+05:30",
-				"abbreviation": "IST",
-				"tzName": "Indian Standard Time"
-			}
-		]
+		"longitude": "77.00000000"
 	}
 ]
 ```
@@ -185,23 +95,6 @@ type: **array of json | IState**
 ]
 ```
 
-getAllCities
----------------
-It returns **all Cities**
-
-type: **array of json | ICity**
-
-```js
-[
-	{
-		"name": "Delhi",
-		"isoCode": "DL",
-		"countryCode": "IN",
-		"latitude": "28.70405920",
-		"longitude": "77.10249020"
-	}
-]
-```
 
 Special Thanks
 ---------------

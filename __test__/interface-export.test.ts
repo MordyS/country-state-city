@@ -14,7 +14,9 @@ test('Check for Interface export when Type Structure is Same', () => {
     phonecode: '+91',
     isoCode: 'IN',
     flag: '🇮🇳',
-    currency: 'INR'
+    currency: 'INR',
+    latitude: '20.00000000',
+    longitude: '77.00000000'
   };
   let isCountry = isValidCountryObjectStructure(country)
   expect(isCountry).toEqual(true);
@@ -40,7 +42,9 @@ test('Check for Interface export when Type Structure is Same and Value is of sam
     phonecode: '+91',
     isoCode: 'IN',
     flag: '🇮🇳',
-    currency: 'INR'
+    currency: 'INR',
+    latitude: '20.00000000',
+    longitude: '77.00000000'
   };
   let isCountry = isValidCountryObjectAndValueType(country)
   expect(isCountry).toEqual(true);
@@ -52,7 +56,9 @@ test('Check for Interface export when Type Structure is Same and Value is of sam
     phonecode: 91, // wrong type
     isoCode: 'IN',
     flag: '🇮🇳',
-    currency: 'INR'
+    currency: 'INR',
+    latitude: '20.00000000',
+    longitude: '77.00000000'
   };
   let isCountry = isValidCountryObjectAndValueType(country)
   expect(isCountry).toEqual(false);
