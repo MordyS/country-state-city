@@ -6,6 +6,7 @@ export interface ICountry {
     currency: string;
     latitude: string;
     longitude: string;
+    continents: Array<string>;
 }
 
 export interface IState {

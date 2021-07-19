@@ -6,7 +6,10 @@
         "flag": "🇦🇫",
         "currency": "AFN",
         "latitude": "33.00000000",
-        "longitude": "65.00000000"
+        "longitude": "65.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "AX",
@@ -15,7 +18,10 @@
         "flag": "🇦🇽",
         "currency": "EUR",
         "latitude": "60.11666700",
-        "longitude": "19.90000000"
+        "longitude": "19.90000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "AL",
@@ -24,7 +30,10 @@
         "flag": "🇦🇱",
         "currency": "ALL",
         "latitude": "41.00000000",
-        "longitude": "20.00000000"
+        "longitude": "20.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "DZ",
@@ -33,7 +42,10 @@
         "flag": "🇩🇿",
         "currency": "DZD",
         "latitude": "28.00000000",
-        "longitude": "3.00000000"
+        "longitude": "3.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "AS",
@@ -42,7 +54,10 @@
         "flag": "🇦🇸",
         "currency": "USD",
         "latitude": "-14.33333333",
-        "longitude": "-170.00000000"
+        "longitude": "-170.00000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "AD",
@@ -51,7 +66,10 @@
         "flag": "🇦🇩",
         "currency": "EUR",
         "latitude": "42.50000000",
-        "longitude": "1.50000000"
+        "longitude": "1.50000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "AO",
@@ -60,7 +78,10 @@
         "flag": "🇦🇴",
         "currency": "AOA",
         "latitude": "-12.50000000",
-        "longitude": "18.50000000"
+        "longitude": "18.50000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "AI",
@@ -69,7 +90,10 @@
         "flag": "🇦🇮",
         "currency": "XCD",
         "latitude": "18.25000000",
-        "longitude": "-63.16666666"
+        "longitude": "-63.16666666",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "AQ",
@@ -78,7 +102,10 @@
         "flag": "🇦🇶",
         "currency": "",
         "latitude": "-74.65000000",
-        "longitude": "4.48000000"
+        "longitude": "4.48000000",
+        "continents": [
+            "Antarctica"
+        ]
     },
     {
         "isoCode": "AG",
@@ -87,7 +114,10 @@
         "flag": "🇦🇬",
         "currency": "XCD",
         "latitude": "17.05000000",
-        "longitude": "-61.80000000"
+        "longitude": "-61.80000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "AR",
@@ -96,7 +126,10 @@
         "flag": "🇦🇷",
         "currency": "ARS",
         "latitude": "-34.00000000",
-        "longitude": "-64.00000000"
+        "longitude": "-64.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "AM",
@@ -105,7 +138,10 @@
         "flag": "🇦🇲",
         "currency": "AMD",
         "latitude": "40.00000000",
-        "longitude": "45.00000000"
+        "longitude": "45.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "AW",
@@ -114,7 +150,10 @@
         "flag": "🇦🇼",
         "currency": "AWG",
         "latitude": "12.50000000",
-        "longitude": "-69.96666666"
+        "longitude": "-69.96666666",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "AU",
@@ -123,7 +162,11 @@
         "flag": "🇦🇺",
         "currency": "AUD",
         "latitude": "-27.00000000",
-        "longitude": "133.00000000"
+        "longitude": "133.00000000",
+        "continents": [
+            "Antarctica",
+            "Australia"
+        ]
     },
     {
         "isoCode": "AT",
@@ -132,7 +175,10 @@
         "flag": "🇦🇹",
         "currency": "EUR",
         "latitude": "47.33333333",
-        "longitude": "13.33333333"
+        "longitude": "13.33333333",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "AZ",
@@ -141,7 +187,10 @@
         "flag": "🇦🇿",
         "currency": "AZN",
         "latitude": "40.50000000",
-        "longitude": "47.50000000"
+        "longitude": "47.50000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "BS",
@@ -150,7 +199,10 @@
         "flag": "🇧🇸",
         "currency": "BSD",
         "latitude": "24.25000000",
-        "longitude": "-76.00000000"
+        "longitude": "-76.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "BH",
@@ -159,7 +211,10 @@
         "flag": "🇧🇭",
         "currency": "BHD",
         "latitude": "26.00000000",
-        "longitude": "50.55000000"
+        "longitude": "50.55000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "BD",
@@ -168,7 +223,10 @@
         "flag": "🇧🇩",
         "currency": "BDT",
         "latitude": "24.00000000",
-        "longitude": "90.00000000"
+        "longitude": "90.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "BB",
@@ -177,7 +235,10 @@
         "flag": "🇧🇧",
         "currency": "BBD",
         "latitude": "13.16666666",
-        "longitude": "-59.53333333"
+        "longitude": "-59.53333333",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "BY",
@@ -186,7 +247,10 @@
         "flag": "🇧🇾",
         "currency": "BYN",
         "latitude": "53.00000000",
-        "longitude": "28.00000000"
+        "longitude": "28.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "BE",
@@ -195,7 +259,10 @@
         "flag": "🇧🇪",
         "currency": "EUR",
         "latitude": "50.83333333",
-        "longitude": "4.00000000"
+        "longitude": "4.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "BZ",
@@ -204,7 +271,10 @@
         "flag": "🇧🇿",
         "currency": "BZD",
         "latitude": "17.25000000",
-        "longitude": "-88.75000000"
+        "longitude": "-88.75000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "BJ",
@@ -213,7 +283,10 @@
         "flag": "🇧🇯",
         "currency": "XOF",
         "latitude": "9.50000000",
-        "longitude": "2.25000000"
+        "longitude": "2.25000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "BM",
@@ -222,7 +295,10 @@
         "flag": "🇧🇲",
         "currency": "BMD",
         "latitude": "32.33333333",
-        "longitude": "-64.75000000"
+        "longitude": "-64.75000000",
+        "continents": [
+            "Atlantic"
+        ]
     },
     {
         "isoCode": "BT",
@@ -231,7 +307,10 @@
         "flag": "🇧🇹",
         "currency": "BTN",
         "latitude": "27.50000000",
-        "longitude": "90.50000000"
+        "longitude": "90.50000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "BO",
@@ -240,7 +319,10 @@
         "flag": "🇧🇴",
         "currency": "BOB",
         "latitude": "-17.00000000",
-        "longitude": "-65.00000000"
+        "longitude": "-65.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "BA",
@@ -249,7 +331,10 @@
         "flag": "🇧🇦",
         "currency": "BAM",
         "latitude": "44.00000000",
-        "longitude": "18.00000000"
+        "longitude": "18.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "BW",
@@ -258,7 +343,10 @@
         "flag": "🇧🇼",
         "currency": "BWP",
         "latitude": "-22.00000000",
-        "longitude": "24.00000000"
+        "longitude": "24.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "BV",
@@ -267,7 +355,10 @@
         "flag": "🇧🇻",
         "currency": "NOK",
         "latitude": "-54.43333333",
-        "longitude": "3.40000000"
+        "longitude": "3.40000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "BR",
@@ -276,7 +367,10 @@
         "flag": "🇧🇷",
         "currency": "BRL",
         "latitude": "-10.00000000",
-        "longitude": "-55.00000000"
+        "longitude": "-55.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "IO",
@@ -285,7 +379,10 @@
         "flag": "🇮🇴",
         "currency": "USD",
         "latitude": "-6.00000000",
-        "longitude": "71.50000000"
+        "longitude": "71.50000000",
+        "continents": [
+            "Indian"
+        ]
     },
     {
         "isoCode": "BN",
@@ -294,7 +391,10 @@
         "flag": "🇧🇳",
         "currency": "BND",
         "latitude": "4.50000000",
-        "longitude": "114.66666666"
+        "longitude": "114.66666666",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "BG",
@@ -303,7 +403,10 @@
         "flag": "🇧🇬",
         "currency": "BGN",
         "latitude": "43.00000000",
-        "longitude": "25.00000000"
+        "longitude": "25.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "BF",
@@ -312,7 +415,10 @@
         "flag": "🇧🇫",
         "currency": "XOF",
         "latitude": "13.00000000",
-        "longitude": "-2.00000000"
+        "longitude": "-2.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "BI",
@@ -321,7 +427,10 @@
         "flag": "🇧🇮",
         "currency": "BIF",
         "latitude": "-3.50000000",
-        "longitude": "30.00000000"
+        "longitude": "30.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "KH",
@@ -330,7 +439,10 @@
         "flag": "🇰🇭",
         "currency": "KHR",
         "latitude": "13.00000000",
-        "longitude": "105.00000000"
+        "longitude": "105.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "CM",
@@ -339,7 +451,10 @@
         "flag": "🇨🇲",
         "currency": "XAF",
         "latitude": "6.00000000",
-        "longitude": "12.00000000"
+        "longitude": "12.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "CA",
@@ -348,7 +463,10 @@
         "flag": "🇨🇦",
         "currency": "CAD",
         "latitude": "60.00000000",
-        "longitude": "-95.00000000"
+        "longitude": "-95.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "CV",
@@ -357,7 +475,10 @@
         "flag": "🇨🇻",
         "currency": "CVE",
         "latitude": "16.00000000",
-        "longitude": "-24.00000000"
+        "longitude": "-24.00000000",
+        "continents": [
+            "Atlantic"
+        ]
     },
     {
         "isoCode": "KY",
@@ -366,7 +487,10 @@
         "flag": "🇰🇾",
         "currency": "KYD",
         "latitude": "19.50000000",
-        "longitude": "-80.50000000"
+        "longitude": "-80.50000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "CF",
@@ -375,7 +499,10 @@
         "flag": "🇨🇫",
         "currency": "XAF",
         "latitude": "7.00000000",
-        "longitude": "21.00000000"
+        "longitude": "21.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "TD",
@@ -384,7 +511,10 @@
         "flag": "🇹🇩",
         "currency": "XAF",
         "latitude": "15.00000000",
-        "longitude": "19.00000000"
+        "longitude": "19.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "CL",
@@ -393,7 +523,11 @@
         "flag": "🇨🇱",
         "currency": "CLP",
         "latitude": "-30.00000000",
-        "longitude": "-71.00000000"
+        "longitude": "-71.00000000",
+        "continents": [
+            "America",
+            "Pacific"
+        ]
     },
     {
         "isoCode": "CN",
@@ -402,7 +536,10 @@
         "flag": "🇨🇳",
         "currency": "CNY",
         "latitude": "35.00000000",
-        "longitude": "105.00000000"
+        "longitude": "105.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "CX",
@@ -411,7 +548,10 @@
         "flag": "🇨🇽",
         "currency": "AUD",
         "latitude": "-10.50000000",
-        "longitude": "105.66666666"
+        "longitude": "105.66666666",
+        "continents": [
+            "Indian"
+        ]
     },
     {
         "isoCode": "CC",
@@ -420,7 +560,10 @@
         "flag": "🇨🇨",
         "currency": "AUD",
         "latitude": "-12.50000000",
-        "longitude": "96.83333333"
+        "longitude": "96.83333333",
+        "continents": [
+            "Indian"
+        ]
     },
     {
         "isoCode": "CO",
@@ -429,7 +572,10 @@
         "flag": "🇨🇴",
         "currency": "COP",
         "latitude": "4.00000000",
-        "longitude": "-72.00000000"
+        "longitude": "-72.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "KM",
@@ -438,7 +584,10 @@
         "flag": "🇰🇲",
         "currency": "KMF",
         "latitude": "-12.16666666",
-        "longitude": "44.25000000"
+        "longitude": "44.25000000",
+        "continents": [
+            "Indian"
+        ]
     },
     {
         "isoCode": "CG",
@@ -447,7 +596,10 @@
         "flag": "🇨🇬",
         "currency": "XAF",
         "latitude": "-1.00000000",
-        "longitude": "15.00000000"
+        "longitude": "15.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "CD",
@@ -456,7 +608,10 @@
         "flag": "🇨🇩",
         "currency": "CDF",
         "latitude": "0.00000000",
-        "longitude": "25.00000000"
+        "longitude": "25.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "CK",
@@ -465,7 +620,10 @@
         "flag": "🇨🇰",
         "currency": "NZD",
         "latitude": "-21.23333333",
-        "longitude": "-159.76666666"
+        "longitude": "-159.76666666",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "CR",
@@ -474,7 +632,10 @@
         "flag": "🇨🇷",
         "currency": "CRC",
         "latitude": "10.00000000",
-        "longitude": "-84.00000000"
+        "longitude": "-84.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "CI",
@@ -483,7 +644,10 @@
         "flag": "🇨🇮",
         "currency": "XOF",
         "latitude": "8.00000000",
-        "longitude": "-5.00000000"
+        "longitude": "-5.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "HR",
@@ -492,7 +656,10 @@
         "flag": "🇭🇷",
         "currency": "HRK",
         "latitude": "45.16666666",
-        "longitude": "15.50000000"
+        "longitude": "15.50000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "CU",
@@ -501,7 +668,10 @@
         "flag": "🇨🇺",
         "currency": "CUP",
         "latitude": "21.50000000",
-        "longitude": "-80.00000000"
+        "longitude": "-80.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "CY",
@@ -510,7 +680,10 @@
         "flag": "🇨🇾",
         "currency": "EUR",
         "latitude": "35.00000000",
-        "longitude": "33.00000000"
+        "longitude": "33.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "CZ",
@@ -519,7 +692,10 @@
         "flag": "🇨🇿",
         "currency": "CZK",
         "latitude": "49.75000000",
-        "longitude": "15.50000000"
+        "longitude": "15.50000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "DK",
@@ -528,7 +704,10 @@
         "flag": "🇩🇰",
         "currency": "DKK",
         "latitude": "56.00000000",
-        "longitude": "10.00000000"
+        "longitude": "10.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "DJ",
@@ -537,7 +716,10 @@
         "flag": "🇩🇯",
         "currency": "DJF",
         "latitude": "11.50000000",
-        "longitude": "43.00000000"
+        "longitude": "43.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "DM",
@@ -546,7 +728,10 @@
         "flag": "🇩🇲",
         "currency": "XCD",
         "latitude": "15.41666666",
-        "longitude": "-61.33333333"
+        "longitude": "-61.33333333",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "DO",
@@ -555,7 +740,10 @@
         "flag": "🇩🇴",
         "currency": "DOP",
         "latitude": "19.00000000",
-        "longitude": "-70.66666666"
+        "longitude": "-70.66666666",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "TL",
@@ -564,7 +752,10 @@
         "flag": "🇹🇱",
         "currency": "USD",
         "latitude": "-8.83333333",
-        "longitude": "125.91666666"
+        "longitude": "125.91666666",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "EC",
@@ -573,7 +764,11 @@
         "flag": "🇪🇨",
         "currency": "USD",
         "latitude": "-2.00000000",
-        "longitude": "-77.50000000"
+        "longitude": "-77.50000000",
+        "continents": [
+            "America",
+            "Pacific"
+        ]
     },
     {
         "isoCode": "EG",
@@ -582,7 +777,10 @@
         "flag": "🇪🇬",
         "currency": "EGP",
         "latitude": "27.00000000",
-        "longitude": "30.00000000"
+        "longitude": "30.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "SV",
@@ -591,7 +789,10 @@
         "flag": "🇸🇻",
         "currency": "USD",
         "latitude": "13.83333333",
-        "longitude": "-88.91666666"
+        "longitude": "-88.91666666",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "GQ",
@@ -600,7 +801,10 @@
         "flag": "🇬🇶",
         "currency": "XAF",
         "latitude": "2.00000000",
-        "longitude": "10.00000000"
+        "longitude": "10.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "ER",
@@ -609,7 +813,10 @@
         "flag": "🇪🇷",
         "currency": "ERN",
         "latitude": "15.00000000",
-        "longitude": "39.00000000"
+        "longitude": "39.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "EE",
@@ -618,7 +825,10 @@
         "flag": "🇪🇪",
         "currency": "EUR",
         "latitude": "59.00000000",
-        "longitude": "26.00000000"
+        "longitude": "26.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "ET",
@@ -627,7 +837,10 @@
         "flag": "🇪🇹",
         "currency": "ETB",
         "latitude": "8.00000000",
-        "longitude": "38.00000000"
+        "longitude": "38.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "FK",
@@ -636,7 +849,10 @@
         "flag": "🇫🇰",
         "currency": "FKP",
         "latitude": "-51.75000000",
-        "longitude": "-59.00000000"
+        "longitude": "-59.00000000",
+        "continents": [
+            "Atlantic"
+        ]
     },
     {
         "isoCode": "FO",
@@ -645,7 +861,10 @@
         "flag": "🇫🇴",
         "currency": "DKK",
         "latitude": "62.00000000",
-        "longitude": "-7.00000000"
+        "longitude": "-7.00000000",
+        "continents": [
+            "Atlantic"
+        ]
     },
     {
         "isoCode": "FJ",
@@ -654,7 +873,10 @@
         "flag": "🇫🇯",
         "currency": "FJD",
         "latitude": "-18.00000000",
-        "longitude": "175.00000000"
+        "longitude": "175.00000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "FI",
@@ -663,7 +885,10 @@
         "flag": "🇫🇮",
         "currency": "EUR",
         "latitude": "64.00000000",
-        "longitude": "26.00000000"
+        "longitude": "26.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "FR",
@@ -672,7 +897,10 @@
         "flag": "🇫🇷",
         "currency": "EUR",
         "latitude": "46.00000000",
-        "longitude": "2.00000000"
+        "longitude": "2.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "GF",
@@ -681,7 +909,10 @@
         "flag": "🇬🇫",
         "currency": "EUR",
         "latitude": "4.00000000",
-        "longitude": "-53.00000000"
+        "longitude": "-53.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "PF",
@@ -690,7 +921,10 @@
         "flag": "🇵🇫",
         "currency": "XPF",
         "latitude": "-15.00000000",
-        "longitude": "-140.00000000"
+        "longitude": "-140.00000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "TF",
@@ -699,7 +933,10 @@
         "flag": "🇹🇫",
         "currency": "EUR",
         "latitude": "-49.25000000",
-        "longitude": "69.16700000"
+        "longitude": "69.16700000",
+        "continents": [
+            "Indian"
+        ]
     },
     {
         "isoCode": "GA",
@@ -708,7 +945,10 @@
         "flag": "🇬🇦",
         "currency": "XAF",
         "latitude": "-1.00000000",
-        "longitude": "11.75000000"
+        "longitude": "11.75000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "GM",
@@ -717,7 +957,10 @@
         "flag": "🇬🇲",
         "currency": "GMD",
         "latitude": "13.46666666",
-        "longitude": "-16.56666666"
+        "longitude": "-16.56666666",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "GE",
@@ -726,7 +969,10 @@
         "flag": "🇬🇪",
         "currency": "GEL",
         "latitude": "42.00000000",
-        "longitude": "43.50000000"
+        "longitude": "43.50000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "DE",
@@ -735,7 +981,10 @@
         "flag": "🇩🇪",
         "currency": "EUR",
         "latitude": "51.00000000",
-        "longitude": "9.00000000"
+        "longitude": "9.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "GH",
@@ -744,7 +993,10 @@
         "flag": "🇬🇭",
         "currency": "GHS",
         "latitude": "8.00000000",
-        "longitude": "-2.00000000"
+        "longitude": "-2.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "GI",
@@ -753,7 +1005,10 @@
         "flag": "🇬🇮",
         "currency": "GIP",
         "latitude": "36.13333333",
-        "longitude": "-5.35000000"
+        "longitude": "-5.35000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "GR",
@@ -762,7 +1017,10 @@
         "flag": "🇬🇷",
         "currency": "EUR",
         "latitude": "39.00000000",
-        "longitude": "22.00000000"
+        "longitude": "22.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "GL",
@@ -771,7 +1029,10 @@
         "flag": "🇬🇱",
         "currency": "DKK",
         "latitude": "72.00000000",
-        "longitude": "-40.00000000"
+        "longitude": "-40.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "GD",
@@ -780,7 +1041,10 @@
         "flag": "🇬🇩",
         "currency": "XCD",
         "latitude": "12.11666666",
-        "longitude": "-61.66666666"
+        "longitude": "-61.66666666",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "GP",
@@ -789,7 +1053,10 @@
         "flag": "🇬🇵",
         "currency": "EUR",
         "latitude": "16.25000000",
-        "longitude": "-61.58333300"
+        "longitude": "-61.58333300",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "GU",
@@ -798,7 +1065,10 @@
         "flag": "🇬🇺",
         "currency": "USD",
         "latitude": "13.46666666",
-        "longitude": "144.78333333"
+        "longitude": "144.78333333",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "GT",
@@ -807,7 +1077,10 @@
         "flag": "🇬🇹",
         "currency": "GTQ",
         "latitude": "15.50000000",
-        "longitude": "-90.25000000"
+        "longitude": "-90.25000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "GG",
@@ -816,7 +1089,10 @@
         "flag": "🇬🇬",
         "currency": "GBP",
         "latitude": "49.46666666",
-        "longitude": "-2.58333333"
+        "longitude": "-2.58333333",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "GN",
@@ -825,7 +1101,10 @@
         "flag": "🇬🇳",
         "currency": "GNF",
         "latitude": "11.00000000",
-        "longitude": "-10.00000000"
+        "longitude": "-10.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "GW",
@@ -834,7 +1113,10 @@
         "flag": "🇬🇼",
         "currency": "XOF",
         "latitude": "12.00000000",
-        "longitude": "-15.00000000"
+        "longitude": "-15.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "GY",
@@ -843,7 +1125,10 @@
         "flag": "🇬🇾",
         "currency": "GYD",
         "latitude": "5.00000000",
-        "longitude": "-59.00000000"
+        "longitude": "-59.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "HT",
@@ -852,7 +1137,10 @@
         "flag": "🇭🇹",
         "currency": "HTG",
         "latitude": "19.00000000",
-        "longitude": "-72.41666666"
+        "longitude": "-72.41666666",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "HM",
@@ -861,7 +1149,10 @@
         "flag": "🇭🇲",
         "currency": "AUD",
         "latitude": "-53.10000000",
-        "longitude": "72.51666666"
+        "longitude": "72.51666666",
+        "continents": [
+            "Indian"
+        ]
     },
     {
         "isoCode": "HN",
@@ -870,7 +1161,10 @@
         "flag": "🇭🇳",
         "currency": "HNL",
         "latitude": "15.00000000",
-        "longitude": "-86.50000000"
+        "longitude": "-86.50000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "HK",
@@ -879,7 +1173,10 @@
         "flag": "🇭🇰",
         "currency": "HKD",
         "latitude": "22.25000000",
-        "longitude": "114.16666666"
+        "longitude": "114.16666666",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "HU",
@@ -888,7 +1185,10 @@
         "flag": "🇭🇺",
         "currency": "HUF",
         "latitude": "47.00000000",
-        "longitude": "20.00000000"
+        "longitude": "20.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "IS",
@@ -897,7 +1197,10 @@
         "flag": "🇮🇸",
         "currency": "ISK",
         "latitude": "65.00000000",
-        "longitude": "-18.00000000"
+        "longitude": "-18.00000000",
+        "continents": [
+            "Atlantic"
+        ]
     },
     {
         "isoCode": "IN",
@@ -906,7 +1209,10 @@
         "flag": "🇮🇳",
         "currency": "INR",
         "latitude": "20.00000000",
-        "longitude": "77.00000000"
+        "longitude": "77.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "ID",
@@ -915,7 +1221,10 @@
         "flag": "🇮🇩",
         "currency": "IDR",
         "latitude": "-5.00000000",
-        "longitude": "120.00000000"
+        "longitude": "120.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "IR",
@@ -924,7 +1233,10 @@
         "flag": "🇮🇷",
         "currency": "IRR",
         "latitude": "32.00000000",
-        "longitude": "53.00000000"
+        "longitude": "53.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "IQ",
@@ -933,7 +1245,10 @@
         "flag": "🇮🇶",
         "currency": "IQD",
         "latitude": "33.00000000",
-        "longitude": "44.00000000"
+        "longitude": "44.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "IE",
@@ -942,7 +1257,10 @@
         "flag": "🇮🇪",
         "currency": "EUR",
         "latitude": "53.00000000",
-        "longitude": "-8.00000000"
+        "longitude": "-8.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "IL",
@@ -951,7 +1269,10 @@
         "flag": "🇮🇱",
         "currency": "ILS",
         "latitude": "31.50000000",
-        "longitude": "34.75000000"
+        "longitude": "34.75000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "IT",
@@ -960,7 +1281,10 @@
         "flag": "🇮🇹",
         "currency": "EUR",
         "latitude": "42.83333333",
-        "longitude": "12.83333333"
+        "longitude": "12.83333333",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "JM",
@@ -969,7 +1293,10 @@
         "flag": "🇯🇲",
         "currency": "JMD",
         "latitude": "18.25000000",
-        "longitude": "-77.50000000"
+        "longitude": "-77.50000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "JP",
@@ -978,7 +1305,10 @@
         "flag": "🇯🇵",
         "currency": "JPY",
         "latitude": "36.00000000",
-        "longitude": "138.00000000"
+        "longitude": "138.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "JE",
@@ -987,7 +1317,10 @@
         "flag": "🇯🇪",
         "currency": "GBP",
         "latitude": "49.25000000",
-        "longitude": "-2.16666666"
+        "longitude": "-2.16666666",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "JO",
@@ -996,7 +1329,10 @@
         "flag": "🇯🇴",
         "currency": "JOD",
         "latitude": "31.00000000",
-        "longitude": "36.00000000"
+        "longitude": "36.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "KZ",
@@ -1005,7 +1341,10 @@
         "flag": "🇰🇿",
         "currency": "KZT",
         "latitude": "48.00000000",
-        "longitude": "68.00000000"
+        "longitude": "68.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "KE",
@@ -1014,7 +1353,10 @@
         "flag": "🇰🇪",
         "currency": "KES",
         "latitude": "1.00000000",
-        "longitude": "38.00000000"
+        "longitude": "38.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "KI",
@@ -1023,7 +1365,10 @@
         "flag": "🇰🇮",
         "currency": "AUD",
         "latitude": "1.41666666",
-        "longitude": "173.00000000"
+        "longitude": "173.00000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "KP",
@@ -1032,7 +1377,10 @@
         "flag": "🇰🇵",
         "currency": "KPW",
         "latitude": "40.00000000",
-        "longitude": "127.00000000"
+        "longitude": "127.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "KR",
@@ -1041,7 +1389,10 @@
         "flag": "🇰🇷",
         "currency": "KRW",
         "latitude": "37.00000000",
-        "longitude": "127.50000000"
+        "longitude": "127.50000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "KW",
@@ -1050,7 +1401,10 @@
         "flag": "🇰🇼",
         "currency": "KWD",
         "latitude": "29.50000000",
-        "longitude": "45.75000000"
+        "longitude": "45.75000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "KG",
@@ -1059,7 +1413,10 @@
         "flag": "🇰🇬",
         "currency": "KGS",
         "latitude": "41.00000000",
-        "longitude": "75.00000000"
+        "longitude": "75.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "LA",
@@ -1068,7 +1425,10 @@
         "flag": "🇱🇦",
         "currency": "LAK",
         "latitude": "18.00000000",
-        "longitude": "105.00000000"
+        "longitude": "105.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "LV",
@@ -1077,7 +1437,10 @@
         "flag": "🇱🇻",
         "currency": "EUR",
         "latitude": "57.00000000",
-        "longitude": "25.00000000"
+        "longitude": "25.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "LB",
@@ -1086,7 +1449,10 @@
         "flag": "🇱🇧",
         "currency": "LBP",
         "latitude": "33.83333333",
-        "longitude": "35.83333333"
+        "longitude": "35.83333333",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "LS",
@@ -1095,7 +1461,10 @@
         "flag": "🇱🇸",
         "currency": "LSL",
         "latitude": "-29.50000000",
-        "longitude": "28.50000000"
+        "longitude": "28.50000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "LR",
@@ -1104,7 +1473,10 @@
         "flag": "🇱🇷",
         "currency": "LRD",
         "latitude": "6.50000000",
-        "longitude": "-9.50000000"
+        "longitude": "-9.50000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "LY",
@@ -1113,7 +1485,10 @@
         "flag": "🇱🇾",
         "currency": "LYD",
         "latitude": "25.00000000",
-        "longitude": "17.00000000"
+        "longitude": "17.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "LI",
@@ -1122,7 +1497,10 @@
         "flag": "🇱🇮",
         "currency": "CHF",
         "latitude": "47.26666666",
-        "longitude": "9.53333333"
+        "longitude": "9.53333333",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "LT",
@@ -1131,7 +1509,10 @@
         "flag": "🇱🇹",
         "currency": "EUR",
         "latitude": "56.00000000",
-        "longitude": "24.00000000"
+        "longitude": "24.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "LU",
@@ -1140,7 +1521,10 @@
         "flag": "🇱🇺",
         "currency": "EUR",
         "latitude": "49.75000000",
-        "longitude": "6.16666666"
+        "longitude": "6.16666666",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "MO",
@@ -1149,7 +1533,10 @@
         "flag": "🇲🇴",
         "currency": "MOP",
         "latitude": "22.16666666",
-        "longitude": "113.55000000"
+        "longitude": "113.55000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "MK",
@@ -1158,7 +1545,10 @@
         "flag": "🇲🇰",
         "currency": "MKD",
         "latitude": "41.83333333",
-        "longitude": "22.00000000"
+        "longitude": "22.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "MG",
@@ -1167,7 +1557,10 @@
         "flag": "🇲🇬",
         "currency": "MGA",
         "latitude": "-20.00000000",
-        "longitude": "47.00000000"
+        "longitude": "47.00000000",
+        "continents": [
+            "Indian"
+        ]
     },
     {
         "isoCode": "MW",
@@ -1176,7 +1569,10 @@
         "flag": "🇲🇼",
         "currency": "MWK",
         "latitude": "-13.50000000",
-        "longitude": "34.00000000"
+        "longitude": "34.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "MY",
@@ -1185,7 +1581,10 @@
         "flag": "🇲🇾",
         "currency": "MYR",
         "latitude": "2.50000000",
-        "longitude": "112.50000000"
+        "longitude": "112.50000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "MV",
@@ -1194,7 +1593,10 @@
         "flag": "🇲🇻",
         "currency": "MVR",
         "latitude": "3.25000000",
-        "longitude": "73.00000000"
+        "longitude": "73.00000000",
+        "continents": [
+            "Indian"
+        ]
     },
     {
         "isoCode": "ML",
@@ -1203,7 +1605,10 @@
         "flag": "🇲🇱",
         "currency": "XOF",
         "latitude": "17.00000000",
-        "longitude": "-4.00000000"
+        "longitude": "-4.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "MT",
@@ -1212,7 +1617,10 @@
         "flag": "🇲🇹",
         "currency": "EUR",
         "latitude": "35.83333333",
-        "longitude": "14.58333333"
+        "longitude": "14.58333333",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "IM",
@@ -1221,7 +1629,10 @@
         "flag": "🇮🇲",
         "currency": "GBP",
         "latitude": "54.25000000",
-        "longitude": "-4.50000000"
+        "longitude": "-4.50000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "MH",
@@ -1230,7 +1641,10 @@
         "flag": "🇲🇭",
         "currency": "USD",
         "latitude": "9.00000000",
-        "longitude": "168.00000000"
+        "longitude": "168.00000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "MQ",
@@ -1239,7 +1653,10 @@
         "flag": "🇲🇶",
         "currency": "EUR",
         "latitude": "14.66666700",
-        "longitude": "-61.00000000"
+        "longitude": "-61.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "MR",
@@ -1248,7 +1665,10 @@
         "flag": "🇲🇷",
         "currency": "MRO",
         "latitude": "20.00000000",
-        "longitude": "-12.00000000"
+        "longitude": "-12.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "MU",
@@ -1257,7 +1677,10 @@
         "flag": "🇲🇺",
         "currency": "MUR",
         "latitude": "-20.28333333",
-        "longitude": "57.55000000"
+        "longitude": "57.55000000",
+        "continents": [
+            "Indian"
+        ]
     },
     {
         "isoCode": "YT",
@@ -1266,7 +1689,10 @@
         "flag": "🇾🇹",
         "currency": "EUR",
         "latitude": "-12.83333333",
-        "longitude": "45.16666666"
+        "longitude": "45.16666666",
+        "continents": [
+            "Indian"
+        ]
     },
     {
         "isoCode": "MX",
@@ -1275,7 +1701,10 @@
         "flag": "🇲🇽",
         "currency": "MXN",
         "latitude": "23.00000000",
-        "longitude": "-102.00000000"
+        "longitude": "-102.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "FM",
@@ -1284,7 +1713,10 @@
         "flag": "🇫🇲",
         "currency": "USD",
         "latitude": "6.91666666",
-        "longitude": "158.25000000"
+        "longitude": "158.25000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "MD",
@@ -1293,7 +1725,10 @@
         "flag": "🇲🇩",
         "currency": "MDL",
         "latitude": "47.00000000",
-        "longitude": "29.00000000"
+        "longitude": "29.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "MC",
@@ -1302,7 +1737,10 @@
         "flag": "🇲🇨",
         "currency": "EUR",
         "latitude": "43.73333333",
-        "longitude": "7.40000000"
+        "longitude": "7.40000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "MN",
@@ -1311,7 +1749,10 @@
         "flag": "🇲🇳",
         "currency": "MNT",
         "latitude": "46.00000000",
-        "longitude": "105.00000000"
+        "longitude": "105.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "ME",
@@ -1320,7 +1761,10 @@
         "flag": "🇲🇪",
         "currency": "EUR",
         "latitude": "42.50000000",
-        "longitude": "19.30000000"
+        "longitude": "19.30000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "MS",
@@ -1329,7 +1773,10 @@
         "flag": "🇲🇸",
         "currency": "XCD",
         "latitude": "16.75000000",
-        "longitude": "-62.20000000"
+        "longitude": "-62.20000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "MA",
@@ -1338,7 +1785,10 @@
         "flag": "🇲🇦",
         "currency": "MAD",
         "latitude": "32.00000000",
-        "longitude": "-5.00000000"
+        "longitude": "-5.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "MZ",
@@ -1347,7 +1797,10 @@
         "flag": "🇲🇿",
         "currency": "MZN",
         "latitude": "-18.25000000",
-        "longitude": "35.00000000"
+        "longitude": "35.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "MM",
@@ -1356,7 +1809,10 @@
         "flag": "🇲🇲",
         "currency": "MMK",
         "latitude": "22.00000000",
-        "longitude": "98.00000000"
+        "longitude": "98.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "NA",
@@ -1365,7 +1821,10 @@
         "flag": "🇳🇦",
         "currency": "NAD",
         "latitude": "-22.00000000",
-        "longitude": "17.00000000"
+        "longitude": "17.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "NR",
@@ -1374,7 +1833,10 @@
         "flag": "🇳🇷",
         "currency": "AUD",
         "latitude": "-0.53333333",
-        "longitude": "166.91666666"
+        "longitude": "166.91666666",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "NP",
@@ -1383,7 +1845,10 @@
         "flag": "🇳🇵",
         "currency": "NPR",
         "latitude": "28.00000000",
-        "longitude": "84.00000000"
+        "longitude": "84.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "BQ",
@@ -1392,7 +1857,10 @@
         "flag": "🇧🇶",
         "currency": "USD",
         "latitude": "12.15000000",
-        "longitude": "-68.26666700"
+        "longitude": "-68.26666700",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "NL",
@@ -1401,7 +1869,10 @@
         "flag": "🇳🇱",
         "currency": "EUR",
         "latitude": "52.50000000",
-        "longitude": "5.75000000"
+        "longitude": "5.75000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "NC",
@@ -1410,7 +1881,10 @@
         "flag": "🇳🇨",
         "currency": "XPF",
         "latitude": "-21.50000000",
-        "longitude": "165.50000000"
+        "longitude": "165.50000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "NZ",
@@ -1419,7 +1893,10 @@
         "flag": "🇳🇿",
         "currency": "NZD",
         "latitude": "-41.00000000",
-        "longitude": "174.00000000"
+        "longitude": "174.00000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "NI",
@@ -1428,7 +1905,10 @@
         "flag": "🇳🇮",
         "currency": "NIO",
         "latitude": "13.00000000",
-        "longitude": "-85.00000000"
+        "longitude": "-85.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "NE",
@@ -1437,7 +1917,10 @@
         "flag": "🇳🇪",
         "currency": "XOF",
         "latitude": "16.00000000",
-        "longitude": "8.00000000"
+        "longitude": "8.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "NG",
@@ -1446,7 +1929,10 @@
         "flag": "🇳🇬",
         "currency": "NGN",
         "latitude": "10.00000000",
-        "longitude": "8.00000000"
+        "longitude": "8.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "NU",
@@ -1455,7 +1941,10 @@
         "flag": "🇳🇺",
         "currency": "NZD",
         "latitude": "-19.03333333",
-        "longitude": "-169.86666666"
+        "longitude": "-169.86666666",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "NF",
@@ -1464,7 +1953,10 @@
         "flag": "🇳🇫",
         "currency": "AUD",
         "latitude": "-29.03333333",
-        "longitude": "167.95000000"
+        "longitude": "167.95000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "MP",
@@ -1473,7 +1965,10 @@
         "flag": "🇲🇵",
         "currency": "USD",
         "latitude": "15.20000000",
-        "longitude": "145.75000000"
+        "longitude": "145.75000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "NO",
@@ -1482,7 +1977,10 @@
         "flag": "🇳🇴",
         "currency": "NOK",
         "latitude": "62.00000000",
-        "longitude": "10.00000000"
+        "longitude": "10.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "OM",
@@ -1491,7 +1989,10 @@
         "flag": "🇴🇲",
         "currency": "OMR",
         "latitude": "21.00000000",
-        "longitude": "57.00000000"
+        "longitude": "57.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "PK",
@@ -1500,7 +2001,10 @@
         "flag": "🇵🇰",
         "currency": "PKR",
         "latitude": "30.00000000",
-        "longitude": "70.00000000"
+        "longitude": "70.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "PW",
@@ -1509,7 +2013,10 @@
         "flag": "🇵🇼",
         "currency": "USD",
         "latitude": "7.50000000",
-        "longitude": "134.50000000"
+        "longitude": "134.50000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "PS",
@@ -1518,7 +2025,10 @@
         "flag": "🇵🇸",
         "currency": "ILS",
         "latitude": "31.90000000",
-        "longitude": "35.20000000"
+        "longitude": "35.20000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "PA",
@@ -1527,7 +2037,10 @@
         "flag": "🇵🇦",
         "currency": "PAB",
         "latitude": "9.00000000",
-        "longitude": "-80.00000000"
+        "longitude": "-80.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "PG",
@@ -1536,7 +2049,10 @@
         "flag": "🇵🇬",
         "currency": "PGK",
         "latitude": "-6.00000000",
-        "longitude": "147.00000000"
+        "longitude": "147.00000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "PY",
@@ -1545,7 +2061,10 @@
         "flag": "🇵🇾",
         "currency": "PYG",
         "latitude": "-23.00000000",
-        "longitude": "-58.00000000"
+        "longitude": "-58.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "PE",
@@ -1554,7 +2073,10 @@
         "flag": "🇵🇪",
         "currency": "PEN",
         "latitude": "-10.00000000",
-        "longitude": "-76.00000000"
+        "longitude": "-76.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "PH",
@@ -1563,7 +2085,10 @@
         "flag": "🇵🇭",
         "currency": "PHP",
         "latitude": "13.00000000",
-        "longitude": "122.00000000"
+        "longitude": "122.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "PN",
@@ -1572,7 +2097,10 @@
         "flag": "🇵🇳",
         "currency": "NZD",
         "latitude": "-25.06666666",
-        "longitude": "-130.10000000"
+        "longitude": "-130.10000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "PL",
@@ -1581,7 +2109,10 @@
         "flag": "🇵🇱",
         "currency": "PLN",
         "latitude": "52.00000000",
-        "longitude": "20.00000000"
+        "longitude": "20.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "PT",
@@ -1590,7 +2121,11 @@
         "flag": "🇵🇹",
         "currency": "EUR",
         "latitude": "39.50000000",
-        "longitude": "-8.00000000"
+        "longitude": "-8.00000000",
+        "continents": [
+            "Atlantic",
+            "Europe"
+        ]
     },
     {
         "isoCode": "PR",
@@ -1599,7 +2134,10 @@
         "flag": "🇵🇷",
         "currency": "USD",
         "latitude": "18.25000000",
-        "longitude": "-66.50000000"
+        "longitude": "-66.50000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "QA",
@@ -1608,7 +2146,10 @@
         "flag": "🇶🇦",
         "currency": "QAR",
         "latitude": "25.50000000",
-        "longitude": "51.25000000"
+        "longitude": "51.25000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "RE",
@@ -1617,7 +2158,10 @@
         "flag": "🇷🇪",
         "currency": "EUR",
         "latitude": "-21.15000000",
-        "longitude": "55.50000000"
+        "longitude": "55.50000000",
+        "continents": [
+            "Indian"
+        ]
     },
     {
         "isoCode": "RO",
@@ -1626,7 +2170,10 @@
         "flag": "🇷🇴",
         "currency": "RON",
         "latitude": "46.00000000",
-        "longitude": "25.00000000"
+        "longitude": "25.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "RU",
@@ -1635,7 +2182,11 @@
         "flag": "🇷🇺",
         "currency": "RUB",
         "latitude": "60.00000000",
-        "longitude": "100.00000000"
+        "longitude": "100.00000000",
+        "continents": [
+            "Asia",
+            "Europe"
+        ]
     },
     {
         "isoCode": "RW",
@@ -1644,7 +2195,10 @@
         "flag": "🇷🇼",
         "currency": "RWF",
         "latitude": "-2.00000000",
-        "longitude": "30.00000000"
+        "longitude": "30.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "SH",
@@ -1653,7 +2207,10 @@
         "flag": "🇸🇭",
         "currency": "SHP",
         "latitude": "-15.95000000",
-        "longitude": "-5.70000000"
+        "longitude": "-5.70000000",
+        "continents": [
+            "Atlantic"
+        ]
     },
     {
         "isoCode": "KN",
@@ -1662,7 +2219,10 @@
         "flag": "🇰🇳",
         "currency": "XCD",
         "latitude": "17.33333333",
-        "longitude": "-62.75000000"
+        "longitude": "-62.75000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "LC",
@@ -1671,7 +2231,10 @@
         "flag": "🇱🇨",
         "currency": "XCD",
         "latitude": "13.88333333",
-        "longitude": "-60.96666666"
+        "longitude": "-60.96666666",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "PM",
@@ -1680,7 +2243,10 @@
         "flag": "🇵🇲",
         "currency": "EUR",
         "latitude": "46.83333333",
-        "longitude": "-56.33333333"
+        "longitude": "-56.33333333",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "VC",
@@ -1689,7 +2255,10 @@
         "flag": "🇻🇨",
         "currency": "XCD",
         "latitude": "13.25000000",
-        "longitude": "-61.20000000"
+        "longitude": "-61.20000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "BL",
@@ -1698,7 +2267,10 @@
         "flag": "🇧🇱",
         "currency": "EUR",
         "latitude": "18.50000000",
-        "longitude": "-63.41666666"
+        "longitude": "-63.41666666",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "MF",
@@ -1707,7 +2279,10 @@
         "flag": "🇲🇫",
         "currency": "EUR",
         "latitude": "18.08333333",
-        "longitude": "-63.95000000"
+        "longitude": "-63.95000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "WS",
@@ -1716,7 +2291,10 @@
         "flag": "🇼🇸",
         "currency": "WST",
         "latitude": "-13.58333333",
-        "longitude": "-172.33333333"
+        "longitude": "-172.33333333",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "SM",
@@ -1725,7 +2303,10 @@
         "flag": "🇸🇲",
         "currency": "EUR",
         "latitude": "43.76666666",
-        "longitude": "12.41666666"
+        "longitude": "12.41666666",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "ST",
@@ -1734,7 +2315,10 @@
         "flag": "🇸🇹",
         "currency": "STD",
         "latitude": "1.00000000",
-        "longitude": "7.00000000"
+        "longitude": "7.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "SA",
@@ -1743,7 +2327,10 @@
         "flag": "🇸🇦",
         "currency": "SAR",
         "latitude": "25.00000000",
-        "longitude": "45.00000000"
+        "longitude": "45.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "SN",
@@ -1752,7 +2339,10 @@
         "flag": "🇸🇳",
         "currency": "XOF",
         "latitude": "14.00000000",
-        "longitude": "-14.00000000"
+        "longitude": "-14.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "RS",
@@ -1761,7 +2351,10 @@
         "flag": "🇷🇸",
         "currency": "RSD",
         "latitude": "44.00000000",
-        "longitude": "21.00000000"
+        "longitude": "21.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "SC",
@@ -1770,7 +2363,10 @@
         "flag": "🇸🇨",
         "currency": "SCR",
         "latitude": "-4.58333333",
-        "longitude": "55.66666666"
+        "longitude": "55.66666666",
+        "continents": [
+            "Indian"
+        ]
     },
     {
         "isoCode": "SL",
@@ -1779,7 +2375,10 @@
         "flag": "🇸🇱",
         "currency": "SLL",
         "latitude": "8.50000000",
-        "longitude": "-11.50000000"
+        "longitude": "-11.50000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "SG",
@@ -1788,7 +2387,10 @@
         "flag": "🇸🇬",
         "currency": "SGD",
         "latitude": "1.36666666",
-        "longitude": "103.80000000"
+        "longitude": "103.80000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "SK",
@@ -1797,7 +2399,10 @@
         "flag": "🇸🇰",
         "currency": "EUR",
         "latitude": "48.66666666",
-        "longitude": "19.50000000"
+        "longitude": "19.50000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "SI",
@@ -1806,7 +2411,10 @@
         "flag": "🇸🇮",
         "currency": "EUR",
         "latitude": "46.11666666",
-        "longitude": "14.81666666"
+        "longitude": "14.81666666",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "SB",
@@ -1815,7 +2423,10 @@
         "flag": "🇸🇧",
         "currency": "SBD",
         "latitude": "-8.00000000",
-        "longitude": "159.00000000"
+        "longitude": "159.00000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "SO",
@@ -1824,7 +2435,10 @@
         "flag": "🇸🇴",
         "currency": "SOS",
         "latitude": "10.00000000",
-        "longitude": "49.00000000"
+        "longitude": "49.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "ZA",
@@ -1833,7 +2447,10 @@
         "flag": "🇿🇦",
         "currency": "ZAR",
         "latitude": "-29.00000000",
-        "longitude": "24.00000000"
+        "longitude": "24.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "GS",
@@ -1842,7 +2459,10 @@
         "flag": "🇬🇸",
         "currency": "GBP",
         "latitude": "-54.50000000",
-        "longitude": "-37.00000000"
+        "longitude": "-37.00000000",
+        "continents": [
+            "Atlantic"
+        ]
     },
     {
         "isoCode": "SS",
@@ -1851,7 +2471,10 @@
         "flag": "🇸🇸",
         "currency": "SSP",
         "latitude": "7.00000000",
-        "longitude": "30.00000000"
+        "longitude": "30.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "ES",
@@ -1860,7 +2483,12 @@
         "flag": "🇪🇸",
         "currency": "EUR",
         "latitude": "40.00000000",
-        "longitude": "-4.00000000"
+        "longitude": "-4.00000000",
+        "continents": [
+            "Africa",
+            "Atlantic",
+            "Europe"
+        ]
     },
     {
         "isoCode": "LK",
@@ -1869,7 +2497,10 @@
         "flag": "🇱🇰",
         "currency": "LKR",
         "latitude": "7.00000000",
-        "longitude": "81.00000000"
+        "longitude": "81.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "SD",
@@ -1878,7 +2509,10 @@
         "flag": "🇸🇩",
         "currency": "SDG",
         "latitude": "15.00000000",
-        "longitude": "30.00000000"
+        "longitude": "30.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "SR",
@@ -1887,7 +2521,10 @@
         "flag": "🇸🇷",
         "currency": "SRD",
         "latitude": "4.00000000",
-        "longitude": "-56.00000000"
+        "longitude": "-56.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "SJ",
@@ -1896,7 +2533,10 @@
         "flag": "🇸🇯",
         "currency": "NOK",
         "latitude": "78.00000000",
-        "longitude": "20.00000000"
+        "longitude": "20.00000000",
+        "continents": [
+            "Arctic"
+        ]
     },
     {
         "isoCode": "SZ",
@@ -1905,7 +2545,10 @@
         "flag": "🇸🇿",
         "currency": "SZL",
         "latitude": "-26.50000000",
-        "longitude": "31.50000000"
+        "longitude": "31.50000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "SE",
@@ -1914,7 +2557,10 @@
         "flag": "🇸🇪",
         "currency": "SEK",
         "latitude": "62.00000000",
-        "longitude": "15.00000000"
+        "longitude": "15.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "CH",
@@ -1923,7 +2569,10 @@
         "flag": "🇨🇭",
         "currency": "CHF",
         "latitude": "47.00000000",
-        "longitude": "8.00000000"
+        "longitude": "8.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "SY",
@@ -1932,7 +2581,10 @@
         "flag": "🇸🇾",
         "currency": "SYP",
         "latitude": "35.00000000",
-        "longitude": "38.00000000"
+        "longitude": "38.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "TW",
@@ -1941,7 +2593,10 @@
         "flag": "🇹🇼",
         "currency": "TWD",
         "latitude": "23.50000000",
-        "longitude": "121.00000000"
+        "longitude": "121.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "TJ",
@@ -1950,7 +2605,10 @@
         "flag": "🇹🇯",
         "currency": "TJS",
         "latitude": "39.00000000",
-        "longitude": "71.00000000"
+        "longitude": "71.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "TZ",
@@ -1959,7 +2617,10 @@
         "flag": "🇹🇿",
         "currency": "TZS",
         "latitude": "-6.00000000",
-        "longitude": "35.00000000"
+        "longitude": "35.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "TH",
@@ -1968,7 +2629,10 @@
         "flag": "🇹🇭",
         "currency": "THB",
         "latitude": "15.00000000",
-        "longitude": "100.00000000"
+        "longitude": "100.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "TG",
@@ -1977,7 +2641,10 @@
         "flag": "🇹🇬",
         "currency": "XOF",
         "latitude": "8.00000000",
-        "longitude": "1.16666666"
+        "longitude": "1.16666666",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "TK",
@@ -1986,7 +2653,10 @@
         "flag": "🇹🇰",
         "currency": "NZD",
         "latitude": "-9.00000000",
-        "longitude": "-172.00000000"
+        "longitude": "-172.00000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "TO",
@@ -1995,7 +2665,10 @@
         "flag": "🇹🇴",
         "currency": "TOP",
         "latitude": "-20.00000000",
-        "longitude": "-175.00000000"
+        "longitude": "-175.00000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "TT",
@@ -2004,7 +2677,10 @@
         "flag": "🇹🇹",
         "currency": "TTD",
         "latitude": "11.00000000",
-        "longitude": "-61.00000000"
+        "longitude": "-61.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "TN",
@@ -2013,7 +2689,10 @@
         "flag": "🇹🇳",
         "currency": "TND",
         "latitude": "34.00000000",
-        "longitude": "9.00000000"
+        "longitude": "9.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "TR",
@@ -2022,7 +2701,10 @@
         "flag": "🇹🇷",
         "currency": "TRY",
         "latitude": "39.00000000",
-        "longitude": "35.00000000"
+        "longitude": "35.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "TM",
@@ -2031,7 +2713,10 @@
         "flag": "🇹🇲",
         "currency": "TMT",
         "latitude": "40.00000000",
-        "longitude": "60.00000000"
+        "longitude": "60.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "TC",
@@ -2040,7 +2725,10 @@
         "flag": "🇹🇨",
         "currency": "USD",
         "latitude": "21.75000000",
-        "longitude": "-71.58333333"
+        "longitude": "-71.58333333",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "TV",
@@ -2049,7 +2737,10 @@
         "flag": "🇹🇻",
         "currency": "AUD",
         "latitude": "-8.00000000",
-        "longitude": "178.00000000"
+        "longitude": "178.00000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "UG",
@@ -2058,7 +2749,10 @@
         "flag": "🇺🇬",
         "currency": "UGX",
         "latitude": "1.00000000",
-        "longitude": "32.00000000"
+        "longitude": "32.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "UA",
@@ -2067,7 +2761,10 @@
         "flag": "🇺🇦",
         "currency": "UAH",
         "latitude": "49.00000000",
-        "longitude": "32.00000000"
+        "longitude": "32.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "AE",
@@ -2076,7 +2773,10 @@
         "flag": "🇦🇪",
         "currency": "AED",
         "latitude": "24.00000000",
-        "longitude": "54.00000000"
+        "longitude": "54.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "GB",
@@ -2085,7 +2785,10 @@
         "flag": "🇬🇧",
         "currency": "GBP",
         "latitude": "54.00000000",
-        "longitude": "-2.00000000"
+        "longitude": "-2.00000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "US",
@@ -2094,7 +2797,11 @@
         "flag": "🇺🇸",
         "currency": "USD",
         "latitude": "38.00000000",
-        "longitude": "-97.00000000"
+        "longitude": "-97.00000000",
+        "continents": [
+            "America",
+            "Pacific"
+        ]
     },
     {
         "isoCode": "UM",
@@ -2103,7 +2810,10 @@
         "flag": "🇺🇲",
         "currency": "USD",
         "latitude": "0.00000000",
-        "longitude": "0.00000000"
+        "longitude": "0.00000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "UY",
@@ -2112,7 +2822,10 @@
         "flag": "🇺🇾",
         "currency": "UYU",
         "latitude": "-33.00000000",
-        "longitude": "-56.00000000"
+        "longitude": "-56.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "UZ",
@@ -2121,7 +2834,10 @@
         "flag": "🇺🇿",
         "currency": "UZS",
         "latitude": "41.00000000",
-        "longitude": "64.00000000"
+        "longitude": "64.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "VU",
@@ -2130,7 +2846,10 @@
         "flag": "🇻🇺",
         "currency": "VUV",
         "latitude": "-16.00000000",
-        "longitude": "167.00000000"
+        "longitude": "167.00000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "VA",
@@ -2139,7 +2858,10 @@
         "flag": "🇻🇦",
         "currency": "EUR",
         "latitude": "41.90000000",
-        "longitude": "12.45000000"
+        "longitude": "12.45000000",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "VE",
@@ -2148,7 +2870,10 @@
         "flag": "🇻🇪",
         "currency": "VEF",
         "latitude": "8.00000000",
-        "longitude": "-66.00000000"
+        "longitude": "-66.00000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "VN",
@@ -2157,7 +2882,10 @@
         "flag": "🇻🇳",
         "currency": "VND",
         "latitude": "16.16666666",
-        "longitude": "107.83333333"
+        "longitude": "107.83333333",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "VG",
@@ -2166,7 +2894,10 @@
         "flag": "🇻🇬",
         "currency": "USD",
         "latitude": "18.43138300",
-        "longitude": "-64.62305000"
+        "longitude": "-64.62305000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "VI",
@@ -2175,7 +2906,10 @@
         "flag": "🇻🇮",
         "currency": "USD",
         "latitude": "18.34000000",
-        "longitude": "-64.93000000"
+        "longitude": "-64.93000000",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "WF",
@@ -2184,7 +2918,10 @@
         "flag": "🇼🇫",
         "currency": "XPF",
         "latitude": "-13.30000000",
-        "longitude": "-176.20000000"
+        "longitude": "-176.20000000",
+        "continents": [
+            "Pacific"
+        ]
     },
     {
         "isoCode": "EH",
@@ -2193,7 +2930,10 @@
         "flag": "🇪🇭",
         "currency": "MAD",
         "latitude": "24.50000000",
-        "longitude": "-13.00000000"
+        "longitude": "-13.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "YE",
@@ -2202,7 +2942,10 @@
         "flag": "🇾🇪",
         "currency": "YER",
         "latitude": "15.00000000",
-        "longitude": "48.00000000"
+        "longitude": "48.00000000",
+        "continents": [
+            "Asia"
+        ]
     },
     {
         "isoCode": "ZM",
@@ -2211,7 +2954,10 @@
         "flag": "🇿🇲",
         "currency": "ZMW",
         "latitude": "-15.00000000",
-        "longitude": "30.00000000"
+        "longitude": "30.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "ZW",
@@ -2220,7 +2966,10 @@
         "flag": "🇿🇼",
         "currency": "ZWL",
         "latitude": "-20.00000000",
-        "longitude": "30.00000000"
+        "longitude": "30.00000000",
+        "continents": [
+            "Africa"
+        ]
     },
     {
         "isoCode": "XK",
@@ -2229,7 +2978,10 @@
         "flag": "🇽🇰",
         "currency": "EUR",
         "latitude": "42.56129090",
-        "longitude": "20.34030350"
+        "longitude": "20.34030350",
+        "continents": [
+            "Europe"
+        ]
     },
     {
         "isoCode": "CW",
@@ -2238,7 +2990,10 @@
         "flag": "🇨🇼",
         "currency": "ANG",
         "latitude": "12.11666700",
-        "longitude": "-68.93333300"
+        "longitude": "-68.93333300",
+        "continents": [
+            "America"
+        ]
     },
     {
         "isoCode": "SX",
@@ -2247,6 +3002,9 @@
         "flag": "🇸🇽",
         "currency": "ANG",
         "latitude": "18.03333300",
-        "longitude": "-63.05000000"
+        "longitude": "-63.05000000",
+        "continents": [
+            "America"
+        ]
     }
 ]

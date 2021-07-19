@@ -16,7 +16,10 @@ test('Check for Interface export when Type Structure is Same', () => {
     flag: '🇮🇳',
     currency: 'INR',
     latitude: '20.00000000',
-    longitude: '77.00000000'
+    longitude: '77.00000000',
+    continents: [
+        "Asia"
+    ]
   };
   let isCountry = isValidCountryObjectStructure(country)
   expect(isCountry).toEqual(true);
@@ -44,7 +47,10 @@ test('Check for Interface export when Type Structure is Same and Value is of sam
     flag: '🇮🇳',
     currency: 'INR',
     latitude: '20.00000000',
-    longitude: '77.00000000'
+    longitude: '77.00000000',
+    continents: [
+        "Asia"
+    ]
   };
   let isCountry = isValidCountryObjectAndValueType(country)
   expect(isCountry).toEqual(true);
@@ -58,7 +64,10 @@ test('Check for Interface export when Type Structure is Same and Value is of sam
     flag: '🇮🇳',
     currency: 'INR',
     latitude: '20.00000000',
-    longitude: '77.00000000'
+    longitude: '77.00000000',
+    continents: [
+        "Asia"
+    ]
   };
   let isCountry = isValidCountryObjectAndValueType(country)
   expect(isCountry).toEqual(false);

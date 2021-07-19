@@ -34,7 +34,8 @@ type: **json | ICountry**
 	"flag": "🇮🇱",
 	"currency": "ILS",
 	"latitude": "31.50000000",
-	"longitude": "34.75000000"
+	"longitude": "34.75000000",
+	"continents": ["Asia"]
 }
 ```
 
@@ -73,7 +74,8 @@ type: **array of json | ICountry**
         "flag": "🇮🇱",
         "currency": "ILS",
         "latitude": "31.50000000",
-        "longitude": "34.75000000"
+        "longitude": "34.75000000",
+		"continents": ["Asia"]
 	}
 ]
 ```
