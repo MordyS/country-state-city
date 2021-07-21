@@ -53,7 +53,7 @@ type: **array of json | IState**
 
 ```
 
-getAllCountries
+getAllCountries()
 ---------------
 It returns **all Countries**
 
@@ -74,7 +74,7 @@ type: **array of json | ICountry**
 ]
 ```
 
-getAllStates
+getAllStates()
 ---------------
 It returns all States **For Canada and United States only**
 
