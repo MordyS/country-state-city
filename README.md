@@ -1,12 +1,5 @@
-NOTE!
+country-state-city-slim
 ==============================
-This is a slim version of country-state-city
-forked from [here](https://github.com/harpreetkhalsagtbit/country-state-city)<br>
-I removed the timezones and the cities and all states besides states of USA and Canada
-in order to decrease the size of my project.<br>
-if you want, please use [the original npm package](https://www.npmjs.com/package/country-state-city)
-
-# country-state-city-slim
 Basic library for Country and State
 
 Data Source:<br>
@@ -15,6 +8,7 @@ For any data related issue, you can raise a Issue [here](https://github.com/dr5h
 
 The original package:<br>
 https://www.npmjs.com/package/country-state-city
+
 # Install
 `npm i country-state-city-slim`
 # Docs
@@ -35,7 +29,7 @@ type: **json | ICountry**
 	"currency": "ILS",
 	"latitude": "31.50000000",
 	"longitude": "34.75000000",
-	"continents": ["Asia"]
+	"region": "Asia"
 }
 ```
 
@@ -75,7 +69,7 @@ type: **array of json | ICountry**
         "currency": "ILS",
         "latitude": "31.50000000",
         "longitude": "34.75000000",
-		"continents": ["Asia"]
+		"region": "Asia"
 	}
 ]
 ```
@@ -98,3 +92,11 @@ type: **array of json | IState**
 	}
 ]
 ```
+
+# Note
+This is a slim version of country-state-city
+forked from [here](https://github.com/harpreetkhalsagtbit/country-state-city)<br>
+I removed the timezones and the cities and all states besides states of USA and Canada
+in order to decrease the size of my project.<br>
+I also added a 'Region' field to each country.<br>
+if you want, you can use [the original npm package](https://www.npmjs.com/package/country-state-city)
