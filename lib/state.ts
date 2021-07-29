@@ -17,9 +17,7 @@ export function getStatesOfCountry(countryCode: string): IState[] {
 }
 
 // to be deprecate
-export function getStateByCode(isoCode: string): IState | undefined {
-	if (!isoCode) return undefined;
-
+export function getStateByCode(isoCode: string): IState {
 	return findEntryByCode(stateList, isoCode);
 }
 
