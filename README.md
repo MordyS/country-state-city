@@ -13,6 +13,8 @@ https://www.npmjs.com/package/country-state-city
 `npm i country-state-city-slim`
 # Docs
 
+`import { Country, State }  from 'country-state-city-slim';`
+
 getCountryByCode(code)
 ---------------
 

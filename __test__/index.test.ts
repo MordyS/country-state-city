@@ -1,9 +1,11 @@
-import csc, { ICountry, IState } from '../index';
+/* eslint-disable no-shadow */
+import { Country, State } from '../index';
+import { ICountry, IState } from '../lib/interface';
 
-const executeAllTests = function (csc: any) {
+const executeAllTests = function (Country: any, State: any) {
 	test('Check for Country By Code ', () => {
 		const code = 'CA';
-		const country = csc.getCountryByCode(code);
+		const country: ICountry = Country.getCountryByCode(code);
 		expect(country).toEqual({
 			name: 'Canada',
 			phonecode: '1',
@@ -16,10 +18,16 @@ const executeAllTests = function (csc: any) {
 		});
 	});
 
+	test('Check for Country By undefined Code ', () => {
+		let code;
+		const country: ICountry = Country.getCountryByCode();
+		expect(country).toEqual(code);
+	});
+
 	test('Check for Canada States', () => {
 		const code = 'CA';
-		const country = csc.getCountryByCode(code);
-		const states = csc.getStatesOfCountry(country.isoCode);
+		const country: any = Country.getCountryByCode(code);
+		const states = State.getStatesOfCountry(country.isoCode);
 		const names = states.map((state: IState) => {
 			return state.name;
 		});
@@ -42,8 +50,8 @@ const executeAllTests = function (csc: any) {
 
 	test('Check All States for United States Of America', () => {
 		const code = 'US';
-		const country = csc.getCountryByCode(code);
-		const states = csc.getStatesOfCountry(country.isoCode);
+		const country: any = Country.getCountryByCode(code);
+		const states = State.getStatesOfCountry(country.isoCode);
 		const names = states.map((state: IState) => {
 			return state.name;
 		});
@@ -116,6 +124,18 @@ const executeAllTests = function (csc: any) {
 			'Wyoming',
 		]);
 	});
+
+	test('Check for State By Code ', () => {
+		const code = 'NY';
+		const state: IState = State.getStateByCode(code);
+		expect(state).toEqual({
+			name: 'New York',
+			isoCode: 'NY',
+			countryCode: 'US',
+			latitude: '40.71277530',
+			longitude: '-74.00597280'
+		});
+	});
 };
 export default executeAllTests;
-executeAllTests(csc);
+executeAllTests(Country, State);
