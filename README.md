@@ -31,9 +31,11 @@ type: **json | ICountry**
 	"currency": "ILS",
 	"latitude": "31.50000000",
 	"longitude": "34.75000000",
-	"region": "Asia"
+	"region": "Asia",
+	"internationalOrganization": ""
 }
 ```
+Note: the internationalOrganization can be either "EU" for the European Union, Or An empty string for other countries
 
 getStatesOfCountry(countryCode)
 ---------------
@@ -71,7 +73,8 @@ type: **array of json | ICountry**
         "currency": "ILS",
         "latitude": "31.50000000",
         "longitude": "34.75000000",
-		"region": "Asia"
+		"region": "Asia",
+		"internationalOrganization": ""
 	}
 ]
 ```
@@ -93,6 +96,15 @@ type: **array of json | IState**
 
 	}
 ]
+```
+isEuropeanUnion(countryCode)
+---------------
+It returns true if the country is part of the European Union
+
+type: **boolean**
+
+```js
+true
 ```
 
 # Note

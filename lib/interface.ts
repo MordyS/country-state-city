@@ -7,6 +7,7 @@ export interface ICountry {
     latitude: string;
     longitude: string;
     region: string;
+    internationalOrganization: string;
 }
 
 export interface IState {

@@ -18,7 +18,8 @@ test('Check for Interface export when Type Structure is Same', () => {
     currency: 'INR',
     latitude: '20.00000000',
     longitude: '77.00000000',
-    region: 'Asia'
+    region: 'Asia',
+    internationalOrganization: ''
   };
   const isCountry = isValidCountryObjectStructure(country)
   expect(isCountry).toEqual(true);
@@ -47,7 +48,8 @@ test('Check for Interface export when Type Structure is Same and Value is of sam
     currency: 'INR',
     latitude: '20.00000000',
     longitude: '77.00000000',
-    region: 'Asia'
+    region: 'Asia',
+    internationalOrganization: ''
   };
   const isCountry = isValidCountryObjectAndValueType(country)
   expect(isCountry).toEqual(true);

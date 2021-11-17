@@ -7,7 +7,8 @@
         "currency": "AFN",
         "latitude": "33.00000000",
         "longitude": "65.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "AX",
@@ -17,7 +18,8 @@
         "currency": "EUR",
         "latitude": "60.11666700",
         "longitude": "19.90000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "AL",
@@ -27,7 +29,8 @@
         "currency": "ALL",
         "latitude": "41.00000000",
         "longitude": "20.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "DZ",
@@ -37,7 +40,8 @@
         "currency": "DZD",
         "latitude": "28.00000000",
         "longitude": "3.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "AS",
@@ -47,7 +51,8 @@
         "currency": "USD",
         "latitude": "-14.33333333",
         "longitude": "-170.00000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "AD",
@@ -57,7 +62,8 @@
         "currency": "EUR",
         "latitude": "42.50000000",
         "longitude": "1.50000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "AO",
@@ -67,7 +73,8 @@
         "currency": "AOA",
         "latitude": "-12.50000000",
         "longitude": "18.50000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "AI",
@@ -77,7 +84,8 @@
         "currency": "XCD",
         "latitude": "18.25000000",
         "longitude": "-63.16666666",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "AQ",
@@ -87,7 +95,8 @@
         "currency": "",
         "latitude": "-74.65000000",
         "longitude": "4.48000000",
-        "region": "Polar"
+        "region": "Polar",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "AG",
@@ -97,7 +106,8 @@
         "currency": "XCD",
         "latitude": "17.05000000",
         "longitude": "-61.80000000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "AR",
@@ -107,7 +117,8 @@
         "currency": "ARS",
         "latitude": "-34.00000000",
         "longitude": "-64.00000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "AM",
@@ -117,7 +128,8 @@
         "currency": "AMD",
         "latitude": "40.00000000",
         "longitude": "45.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "AW",
@@ -127,7 +139,8 @@
         "currency": "AWG",
         "latitude": "12.50000000",
         "longitude": "-69.96666666",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "AU",
@@ -137,7 +150,8 @@
         "currency": "AUD",
         "latitude": "-27.00000000",
         "longitude": "133.00000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "AT",
@@ -147,7 +161,8 @@
         "currency": "EUR",
         "latitude": "47.33333333",
         "longitude": "13.33333333",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "AZ",
@@ -157,7 +172,8 @@
         "currency": "AZN",
         "latitude": "40.50000000",
         "longitude": "47.50000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BS",
@@ -167,7 +183,8 @@
         "currency": "BSD",
         "latitude": "24.25000000",
         "longitude": "-76.00000000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BH",
@@ -177,7 +194,8 @@
         "currency": "BHD",
         "latitude": "26.00000000",
         "longitude": "50.55000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BD",
@@ -187,7 +205,8 @@
         "currency": "BDT",
         "latitude": "24.00000000",
         "longitude": "90.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BB",
@@ -197,7 +216,8 @@
         "currency": "BBD",
         "latitude": "13.16666666",
         "longitude": "-59.53333333",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BY",
@@ -207,7 +227,8 @@
         "currency": "BYN",
         "latitude": "53.00000000",
         "longitude": "28.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BE",
@@ -217,7 +238,8 @@
         "currency": "EUR",
         "latitude": "50.83333333",
         "longitude": "4.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "BZ",
@@ -227,7 +249,8 @@
         "currency": "BZD",
         "latitude": "17.25000000",
         "longitude": "-88.75000000",
-        "region": "Central America"
+        "region": "Central America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BJ",
@@ -237,7 +260,8 @@
         "currency": "XOF",
         "latitude": "9.50000000",
         "longitude": "2.25000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BM",
@@ -247,7 +271,8 @@
         "currency": "BMD",
         "latitude": "32.33333333",
         "longitude": "-64.75000000",
-        "region": "Northern America"
+        "region": "Northern America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BT",
@@ -257,7 +282,8 @@
         "currency": "BTN",
         "latitude": "27.50000000",
         "longitude": "90.50000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BO",
@@ -267,7 +293,8 @@
         "currency": "BOB",
         "latitude": "-17.00000000",
         "longitude": "-65.00000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BQ",
@@ -277,7 +304,8 @@
         "currency": "USD",
         "latitude": "12.15000000",
         "longitude": "-68.26666700",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BA",
@@ -287,7 +315,8 @@
         "currency": "BAM",
         "latitude": "44.00000000",
         "longitude": "18.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BW",
@@ -297,7 +326,8 @@
         "currency": "BWP",
         "latitude": "-22.00000000",
         "longitude": "24.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BV",
@@ -307,7 +337,8 @@
         "currency": "NOK",
         "latitude": "-54.43333333",
         "longitude": "3.40000000",
-        "region": ""
+        "region": "",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BR",
@@ -317,7 +348,8 @@
         "currency": "BRL",
         "latitude": "-10.00000000",
         "longitude": "-55.00000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "IO",
@@ -327,7 +359,8 @@
         "currency": "USD",
         "latitude": "-6.00000000",
         "longitude": "71.50000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BN",
@@ -337,7 +370,8 @@
         "currency": "BND",
         "latitude": "4.50000000",
         "longitude": "114.66666666",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BG",
@@ -347,7 +381,8 @@
         "currency": "BGN",
         "latitude": "43.00000000",
         "longitude": "25.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "BF",
@@ -357,7 +392,8 @@
         "currency": "XOF",
         "latitude": "13.00000000",
         "longitude": "-2.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BI",
@@ -367,7 +403,8 @@
         "currency": "BIF",
         "latitude": "-3.50000000",
         "longitude": "30.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "KH",
@@ -377,7 +414,8 @@
         "currency": "KHR",
         "latitude": "13.00000000",
         "longitude": "105.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CM",
@@ -387,7 +425,8 @@
         "currency": "XAF",
         "latitude": "6.00000000",
         "longitude": "12.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CA",
@@ -397,7 +436,8 @@
         "currency": "CAD",
         "latitude": "60.00000000",
         "longitude": "-95.00000000",
-        "region": "Northern America"
+        "region": "Northern America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CV",
@@ -407,7 +447,8 @@
         "currency": "CVE",
         "latitude": "16.00000000",
         "longitude": "-24.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "KY",
@@ -417,7 +458,8 @@
         "currency": "KYD",
         "latitude": "19.50000000",
         "longitude": "-80.50000000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CF",
@@ -427,7 +469,8 @@
         "currency": "XAF",
         "latitude": "7.00000000",
         "longitude": "21.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TD",
@@ -437,7 +480,8 @@
         "currency": "XAF",
         "latitude": "15.00000000",
         "longitude": "19.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CL",
@@ -447,7 +491,8 @@
         "currency": "CLP",
         "latitude": "-30.00000000",
         "longitude": "-71.00000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CN",
@@ -457,7 +502,8 @@
         "currency": "CNY",
         "latitude": "35.00000000",
         "longitude": "105.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CX",
@@ -467,7 +513,8 @@
         "currency": "AUD",
         "latitude": "-10.50000000",
         "longitude": "105.66666666",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CC",
@@ -477,7 +524,8 @@
         "currency": "AUD",
         "latitude": "-12.50000000",
         "longitude": "96.83333333",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CO",
@@ -487,7 +535,8 @@
         "currency": "COP",
         "latitude": "4.00000000",
         "longitude": "-72.00000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "KM",
@@ -497,7 +546,8 @@
         "currency": "KMF",
         "latitude": "-12.16666666",
         "longitude": "44.25000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CG",
@@ -507,7 +557,8 @@
         "currency": "XAF",
         "latitude": "-1.00000000",
         "longitude": "15.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CD",
@@ -517,7 +568,8 @@
         "currency": "CDF",
         "latitude": "0.00000000",
         "longitude": "25.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CK",
@@ -527,7 +579,8 @@
         "currency": "NZD",
         "latitude": "-21.23333333",
         "longitude": "-159.76666666",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CR",
@@ -537,7 +590,8 @@
         "currency": "CRC",
         "latitude": "10.00000000",
         "longitude": "-84.00000000",
-        "region": "Central America"
+        "region": "Central America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CI",
@@ -547,7 +601,8 @@
         "currency": "XOF",
         "latitude": "8.00000000",
         "longitude": "-5.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "HR",
@@ -557,7 +612,8 @@
         "currency": "HRK",
         "latitude": "45.16666666",
         "longitude": "15.50000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "CU",
@@ -567,7 +623,8 @@
         "currency": "CUP",
         "latitude": "21.50000000",
         "longitude": "-80.00000000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CW",
@@ -577,7 +634,8 @@
         "currency": "ANG",
         "latitude": "12.11666700",
         "longitude": "-68.93333300",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "CY",
@@ -587,7 +645,8 @@
         "currency": "EUR",
         "latitude": "35.00000000",
         "longitude": "33.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "CZ",
@@ -597,7 +656,8 @@
         "currency": "CZK",
         "latitude": "49.75000000",
         "longitude": "15.50000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "DK",
@@ -607,7 +667,8 @@
         "currency": "DKK",
         "latitude": "56.00000000",
         "longitude": "10.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "DJ",
@@ -617,7 +678,8 @@
         "currency": "DJF",
         "latitude": "11.50000000",
         "longitude": "43.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "DM",
@@ -627,7 +689,8 @@
         "currency": "XCD",
         "latitude": "15.41666666",
         "longitude": "-61.33333333",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "DO",
@@ -637,7 +700,8 @@
         "currency": "DOP",
         "latitude": "19.00000000",
         "longitude": "-70.66666666",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TL",
@@ -647,7 +711,8 @@
         "currency": "USD",
         "latitude": "-8.83333333",
         "longitude": "125.91666666",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "EC",
@@ -657,7 +722,8 @@
         "currency": "USD",
         "latitude": "-2.00000000",
         "longitude": "-77.50000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "EG",
@@ -667,7 +733,8 @@
         "currency": "EGP",
         "latitude": "27.00000000",
         "longitude": "30.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SV",
@@ -677,7 +744,8 @@
         "currency": "USD",
         "latitude": "13.83333333",
         "longitude": "-88.91666666",
-        "region": "Central America"
+        "region": "Central America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GQ",
@@ -687,7 +755,8 @@
         "currency": "XAF",
         "latitude": "2.00000000",
         "longitude": "10.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "ER",
@@ -697,7 +766,8 @@
         "currency": "ERN",
         "latitude": "15.00000000",
         "longitude": "39.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "EE",
@@ -707,7 +777,8 @@
         "currency": "EUR",
         "latitude": "59.00000000",
         "longitude": "26.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "ET",
@@ -717,7 +788,8 @@
         "currency": "ETB",
         "latitude": "8.00000000",
         "longitude": "38.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "FK",
@@ -727,7 +799,8 @@
         "currency": "FKP",
         "latitude": "-51.75000000",
         "longitude": "-59.00000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "FO",
@@ -737,7 +810,8 @@
         "currency": "DKK",
         "latitude": "62.00000000",
         "longitude": "-7.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "FJ",
@@ -747,7 +821,8 @@
         "currency": "FJD",
         "latitude": "-18.00000000",
         "longitude": "175.00000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "FI",
@@ -757,7 +832,8 @@
         "currency": "EUR",
         "latitude": "64.00000000",
         "longitude": "26.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "FR",
@@ -767,7 +843,8 @@
         "currency": "EUR",
         "latitude": "46.00000000",
         "longitude": "2.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "GF",
@@ -777,7 +854,8 @@
         "currency": "EUR",
         "latitude": "4.00000000",
         "longitude": "-53.00000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "PF",
@@ -787,7 +865,8 @@
         "currency": "XPF",
         "latitude": "-15.00000000",
         "longitude": "-140.00000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TF",
@@ -797,7 +876,8 @@
         "currency": "EUR",
         "latitude": "-49.25000000",
         "longitude": "69.16700000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GA",
@@ -807,7 +887,8 @@
         "currency": "XAF",
         "latitude": "-1.00000000",
         "longitude": "11.75000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GM",
@@ -817,7 +898,8 @@
         "currency": "GMD",
         "latitude": "13.46666666",
         "longitude": "-16.56666666",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GE",
@@ -827,7 +909,8 @@
         "currency": "GEL",
         "latitude": "42.00000000",
         "longitude": "43.50000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "DE",
@@ -837,7 +920,8 @@
         "currency": "EUR",
         "latitude": "51.00000000",
         "longitude": "9.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "GH",
@@ -847,7 +931,8 @@
         "currency": "GHS",
         "latitude": "8.00000000",
         "longitude": "-2.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GI",
@@ -857,7 +942,8 @@
         "currency": "GIP",
         "latitude": "36.13333333",
         "longitude": "-5.35000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GR",
@@ -867,7 +953,8 @@
         "currency": "EUR",
         "latitude": "39.00000000",
         "longitude": "22.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "GL",
@@ -877,7 +964,8 @@
         "currency": "DKK",
         "latitude": "72.00000000",
         "longitude": "-40.00000000",
-        "region": "Northern America"
+        "region": "Northern America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GD",
@@ -887,7 +975,8 @@
         "currency": "XCD",
         "latitude": "12.11666666",
         "longitude": "-61.66666666",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GP",
@@ -897,7 +986,8 @@
         "currency": "EUR",
         "latitude": "16.25000000",
         "longitude": "-61.58333300",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GU",
@@ -907,7 +997,8 @@
         "currency": "USD",
         "latitude": "13.46666666",
         "longitude": "144.78333333",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GT",
@@ -917,7 +1008,8 @@
         "currency": "GTQ",
         "latitude": "15.50000000",
         "longitude": "-90.25000000",
-        "region": "Central America"
+        "region": "Central America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GG",
@@ -927,7 +1019,8 @@
         "currency": "GBP",
         "latitude": "49.46666666",
         "longitude": "-2.58333333",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GN",
@@ -937,7 +1030,8 @@
         "currency": "GNF",
         "latitude": "11.00000000",
         "longitude": "-10.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GW",
@@ -947,7 +1041,8 @@
         "currency": "XOF",
         "latitude": "12.00000000",
         "longitude": "-15.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GY",
@@ -957,7 +1052,8 @@
         "currency": "GYD",
         "latitude": "5.00000000",
         "longitude": "-59.00000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "HT",
@@ -967,7 +1063,8 @@
         "currency": "HTG",
         "latitude": "19.00000000",
         "longitude": "-72.41666666",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "HM",
@@ -977,7 +1074,8 @@
         "currency": "AUD",
         "latitude": "-53.10000000",
         "longitude": "72.51666666",
-        "region": ""
+        "region": "",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "HN",
@@ -987,7 +1085,8 @@
         "currency": "HNL",
         "latitude": "15.00000000",
         "longitude": "-86.50000000",
-        "region": "Central America"
+        "region": "Central America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "HK",
@@ -997,7 +1096,8 @@
         "currency": "HKD",
         "latitude": "22.25000000",
         "longitude": "114.16666666",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "HU",
@@ -1007,7 +1107,8 @@
         "currency": "HUF",
         "latitude": "47.00000000",
         "longitude": "20.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "IS",
@@ -1017,7 +1118,8 @@
         "currency": "ISK",
         "latitude": "65.00000000",
         "longitude": "-18.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "IN",
@@ -1027,7 +1129,8 @@
         "currency": "INR",
         "latitude": "20.00000000",
         "longitude": "77.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "ID",
@@ -1037,7 +1140,8 @@
         "currency": "IDR",
         "latitude": "-5.00000000",
         "longitude": "120.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "IR",
@@ -1047,7 +1151,8 @@
         "currency": "IRR",
         "latitude": "32.00000000",
         "longitude": "53.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "IQ",
@@ -1057,7 +1162,8 @@
         "currency": "IQD",
         "latitude": "33.00000000",
         "longitude": "44.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "IE",
@@ -1067,7 +1173,8 @@
         "currency": "EUR",
         "latitude": "53.00000000",
         "longitude": "-8.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "IL",
@@ -1077,7 +1184,8 @@
         "currency": "ILS",
         "latitude": "31.50000000",
         "longitude": "34.75000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "IT",
@@ -1087,7 +1195,8 @@
         "currency": "EUR",
         "latitude": "42.83333333",
         "longitude": "12.83333333",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "JM",
@@ -1097,7 +1206,8 @@
         "currency": "JMD",
         "latitude": "18.25000000",
         "longitude": "-77.50000000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "JP",
@@ -1107,7 +1217,8 @@
         "currency": "JPY",
         "latitude": "36.00000000",
         "longitude": "138.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "JE",
@@ -1117,7 +1228,8 @@
         "currency": "GBP",
         "latitude": "49.25000000",
         "longitude": "-2.16666666",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "JO",
@@ -1127,7 +1239,8 @@
         "currency": "JOD",
         "latitude": "31.00000000",
         "longitude": "36.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "KZ",
@@ -1137,7 +1250,8 @@
         "currency": "KZT",
         "latitude": "48.00000000",
         "longitude": "68.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "KE",
@@ -1147,7 +1261,8 @@
         "currency": "KES",
         "latitude": "1.00000000",
         "longitude": "38.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "KI",
@@ -1157,7 +1272,8 @@
         "currency": "AUD",
         "latitude": "1.41666666",
         "longitude": "173.00000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "KP",
@@ -1167,7 +1283,8 @@
         "currency": "KPW",
         "latitude": "40.00000000",
         "longitude": "127.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "KR",
@@ -1177,7 +1294,8 @@
         "currency": "KRW",
         "latitude": "37.00000000",
         "longitude": "127.50000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "XK",
@@ -1187,7 +1305,8 @@
         "currency": "EUR",
         "latitude": "42.56129090",
         "longitude": "20.34030350",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "KW",
@@ -1197,7 +1316,8 @@
         "currency": "KWD",
         "latitude": "29.50000000",
         "longitude": "45.75000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "KG",
@@ -1207,7 +1327,8 @@
         "currency": "KGS",
         "latitude": "41.00000000",
         "longitude": "75.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "LA",
@@ -1217,7 +1338,8 @@
         "currency": "LAK",
         "latitude": "18.00000000",
         "longitude": "105.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "LV",
@@ -1227,7 +1349,8 @@
         "currency": "EUR",
         "latitude": "57.00000000",
         "longitude": "25.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "LB",
@@ -1237,7 +1360,8 @@
         "currency": "LBP",
         "latitude": "33.83333333",
         "longitude": "35.83333333",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "LS",
@@ -1247,7 +1371,8 @@
         "currency": "LSL",
         "latitude": "-29.50000000",
         "longitude": "28.50000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "LR",
@@ -1257,7 +1382,8 @@
         "currency": "LRD",
         "latitude": "6.50000000",
         "longitude": "-9.50000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "LY",
@@ -1267,7 +1393,8 @@
         "currency": "LYD",
         "latitude": "25.00000000",
         "longitude": "17.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "LI",
@@ -1277,7 +1404,8 @@
         "currency": "CHF",
         "latitude": "47.26666666",
         "longitude": "9.53333333",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "LT",
@@ -1287,7 +1415,8 @@
         "currency": "EUR",
         "latitude": "56.00000000",
         "longitude": "24.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "LU",
@@ -1297,7 +1426,8 @@
         "currency": "EUR",
         "latitude": "49.75000000",
         "longitude": "6.16666666",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "MO",
@@ -1307,7 +1437,8 @@
         "currency": "MOP",
         "latitude": "22.16666666",
         "longitude": "113.55000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MK",
@@ -1317,7 +1448,8 @@
         "currency": "MKD",
         "latitude": "41.83333333",
         "longitude": "22.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MG",
@@ -1327,7 +1459,8 @@
         "currency": "MGA",
         "latitude": "-20.00000000",
         "longitude": "47.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MW",
@@ -1337,7 +1470,8 @@
         "currency": "MWK",
         "latitude": "-13.50000000",
         "longitude": "34.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MY",
@@ -1347,7 +1481,8 @@
         "currency": "MYR",
         "latitude": "2.50000000",
         "longitude": "112.50000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MV",
@@ -1357,7 +1492,8 @@
         "currency": "MVR",
         "latitude": "3.25000000",
         "longitude": "73.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "ML",
@@ -1367,7 +1503,8 @@
         "currency": "XOF",
         "latitude": "17.00000000",
         "longitude": "-4.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MT",
@@ -1377,7 +1514,8 @@
         "currency": "EUR",
         "latitude": "35.83333333",
         "longitude": "14.58333333",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "IM",
@@ -1387,7 +1525,8 @@
         "currency": "GBP",
         "latitude": "54.25000000",
         "longitude": "-4.50000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MH",
@@ -1397,7 +1536,8 @@
         "currency": "USD",
         "latitude": "9.00000000",
         "longitude": "168.00000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MQ",
@@ -1407,7 +1547,8 @@
         "currency": "EUR",
         "latitude": "14.66666700",
         "longitude": "-61.00000000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MR",
@@ -1417,7 +1558,8 @@
         "currency": "MRO",
         "latitude": "20.00000000",
         "longitude": "-12.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MU",
@@ -1427,7 +1569,8 @@
         "currency": "MUR",
         "latitude": "-20.28333333",
         "longitude": "57.55000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "YT",
@@ -1437,7 +1580,8 @@
         "currency": "EUR",
         "latitude": "-12.83333333",
         "longitude": "45.16666666",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MX",
@@ -1447,7 +1591,8 @@
         "currency": "MXN",
         "latitude": "23.00000000",
         "longitude": "-102.00000000",
-        "region": "Central America"
+        "region": "Central America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "FM",
@@ -1457,7 +1602,8 @@
         "currency": "USD",
         "latitude": "6.91666666",
         "longitude": "158.25000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MD",
@@ -1467,7 +1613,8 @@
         "currency": "MDL",
         "latitude": "47.00000000",
         "longitude": "29.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MC",
@@ -1477,7 +1624,8 @@
         "currency": "EUR",
         "latitude": "43.73333333",
         "longitude": "7.40000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MN",
@@ -1487,7 +1635,8 @@
         "currency": "MNT",
         "latitude": "46.00000000",
         "longitude": "105.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "ME",
@@ -1497,7 +1646,8 @@
         "currency": "EUR",
         "latitude": "42.50000000",
         "longitude": "19.30000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MS",
@@ -1507,7 +1657,8 @@
         "currency": "XCD",
         "latitude": "16.75000000",
         "longitude": "-62.20000000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MA",
@@ -1517,7 +1668,8 @@
         "currency": "MAD",
         "latitude": "32.00000000",
         "longitude": "-5.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MZ",
@@ -1527,7 +1679,8 @@
         "currency": "MZN",
         "latitude": "-18.25000000",
         "longitude": "35.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MM",
@@ -1537,7 +1690,8 @@
         "currency": "MMK",
         "latitude": "22.00000000",
         "longitude": "98.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "NA",
@@ -1547,7 +1701,8 @@
         "currency": "NAD",
         "latitude": "-22.00000000",
         "longitude": "17.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "NR",
@@ -1557,7 +1712,8 @@
         "currency": "AUD",
         "latitude": "-0.53333333",
         "longitude": "166.91666666",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "NP",
@@ -1567,7 +1723,8 @@
         "currency": "NPR",
         "latitude": "28.00000000",
         "longitude": "84.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "NL",
@@ -1577,7 +1734,8 @@
         "currency": "EUR",
         "latitude": "52.50000000",
         "longitude": "5.75000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "NC",
@@ -1587,7 +1745,8 @@
         "currency": "XPF",
         "latitude": "-21.50000000",
         "longitude": "165.50000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "NZ",
@@ -1597,7 +1756,8 @@
         "currency": "NZD",
         "latitude": "-41.00000000",
         "longitude": "174.00000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "NI",
@@ -1607,7 +1767,8 @@
         "currency": "NIO",
         "latitude": "13.00000000",
         "longitude": "-85.00000000",
-        "region": "Central America"
+        "region": "Central America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "NE",
@@ -1617,7 +1778,8 @@
         "currency": "XOF",
         "latitude": "16.00000000",
         "longitude": "8.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "NG",
@@ -1627,7 +1789,8 @@
         "currency": "NGN",
         "latitude": "10.00000000",
         "longitude": "8.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "NU",
@@ -1637,7 +1800,8 @@
         "currency": "NZD",
         "latitude": "-19.03333333",
         "longitude": "-169.86666666",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "NF",
@@ -1647,7 +1811,8 @@
         "currency": "AUD",
         "latitude": "-29.03333333",
         "longitude": "167.95000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MP",
@@ -1657,7 +1822,8 @@
         "currency": "USD",
         "latitude": "15.20000000",
         "longitude": "145.75000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "NO",
@@ -1667,7 +1833,8 @@
         "currency": "NOK",
         "latitude": "62.00000000",
         "longitude": "10.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "OM",
@@ -1677,7 +1844,8 @@
         "currency": "OMR",
         "latitude": "21.00000000",
         "longitude": "57.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "PK",
@@ -1687,7 +1855,8 @@
         "currency": "PKR",
         "latitude": "30.00000000",
         "longitude": "70.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "PW",
@@ -1697,7 +1866,8 @@
         "currency": "USD",
         "latitude": "7.50000000",
         "longitude": "134.50000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "PS",
@@ -1707,7 +1877,8 @@
         "currency": "ILS",
         "latitude": "31.90000000",
         "longitude": "35.20000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "PA",
@@ -1717,7 +1888,8 @@
         "currency": "PAB",
         "latitude": "9.00000000",
         "longitude": "-80.00000000",
-        "region": "Central America"
+        "region": "Central America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "PG",
@@ -1727,7 +1899,8 @@
         "currency": "PGK",
         "latitude": "-6.00000000",
         "longitude": "147.00000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "PY",
@@ -1737,7 +1910,8 @@
         "currency": "PYG",
         "latitude": "-23.00000000",
         "longitude": "-58.00000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "PE",
@@ -1747,7 +1921,8 @@
         "currency": "PEN",
         "latitude": "-10.00000000",
         "longitude": "-76.00000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "PH",
@@ -1757,7 +1932,8 @@
         "currency": "PHP",
         "latitude": "13.00000000",
         "longitude": "122.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "PN",
@@ -1767,7 +1943,8 @@
         "currency": "NZD",
         "latitude": "-25.06666666",
         "longitude": "-130.10000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "PL",
@@ -1777,7 +1954,8 @@
         "currency": "PLN",
         "latitude": "52.00000000",
         "longitude": "20.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "PT",
@@ -1787,7 +1965,8 @@
         "currency": "EUR",
         "latitude": "39.50000000",
         "longitude": "-8.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "PR",
@@ -1797,7 +1976,8 @@
         "currency": "USD",
         "latitude": "18.25000000",
         "longitude": "-66.50000000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "QA",
@@ -1807,7 +1987,8 @@
         "currency": "QAR",
         "latitude": "25.50000000",
         "longitude": "51.25000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "RE",
@@ -1817,7 +1998,8 @@
         "currency": "EUR",
         "latitude": "-21.15000000",
         "longitude": "55.50000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "RO",
@@ -1827,7 +2009,8 @@
         "currency": "RON",
         "latitude": "46.00000000",
         "longitude": "25.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "RU",
@@ -1837,7 +2020,8 @@
         "currency": "RUB",
         "latitude": "60.00000000",
         "longitude": "100.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "RW",
@@ -1847,7 +2031,8 @@
         "currency": "RWF",
         "latitude": "-2.00000000",
         "longitude": "30.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SH",
@@ -1857,7 +2042,8 @@
         "currency": "SHP",
         "latitude": "-15.95000000",
         "longitude": "-5.70000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "KN",
@@ -1867,7 +2053,8 @@
         "currency": "XCD",
         "latitude": "17.33333333",
         "longitude": "-62.75000000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "LC",
@@ -1877,7 +2064,8 @@
         "currency": "XCD",
         "latitude": "13.88333333",
         "longitude": "-60.96666666",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "PM",
@@ -1887,7 +2075,8 @@
         "currency": "EUR",
         "latitude": "46.83333333",
         "longitude": "-56.33333333",
-        "region": "Northern America"
+        "region": "Northern America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "VC",
@@ -1897,7 +2086,8 @@
         "currency": "XCD",
         "latitude": "13.25000000",
         "longitude": "-61.20000000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "BL",
@@ -1907,7 +2097,8 @@
         "currency": "EUR",
         "latitude": "18.50000000",
         "longitude": "-63.41666666",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "MF",
@@ -1917,7 +2108,8 @@
         "currency": "EUR",
         "latitude": "18.08333333",
         "longitude": "-63.95000000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "WS",
@@ -1927,7 +2119,8 @@
         "currency": "WST",
         "latitude": "-13.58333333",
         "longitude": "-172.33333333",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SM",
@@ -1937,7 +2130,8 @@
         "currency": "EUR",
         "latitude": "43.76666666",
         "longitude": "12.41666666",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "ST",
@@ -1947,7 +2141,8 @@
         "currency": "STD",
         "latitude": "1.00000000",
         "longitude": "7.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SA",
@@ -1957,7 +2152,8 @@
         "currency": "SAR",
         "latitude": "25.00000000",
         "longitude": "45.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SN",
@@ -1967,7 +2163,8 @@
         "currency": "XOF",
         "latitude": "14.00000000",
         "longitude": "-14.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "RS",
@@ -1977,7 +2174,8 @@
         "currency": "RSD",
         "latitude": "44.00000000",
         "longitude": "21.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SC",
@@ -1987,7 +2185,8 @@
         "currency": "SCR",
         "latitude": "-4.58333333",
         "longitude": "55.66666666",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SL",
@@ -1997,7 +2196,8 @@
         "currency": "SLL",
         "latitude": "8.50000000",
         "longitude": "-11.50000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SG",
@@ -2007,7 +2207,8 @@
         "currency": "SGD",
         "latitude": "1.36666666",
         "longitude": "103.80000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SX",
@@ -2017,7 +2218,8 @@
         "currency": "ANG",
         "latitude": "18.03333300",
         "longitude": "-63.05000000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SK",
@@ -2027,7 +2229,8 @@
         "currency": "EUR",
         "latitude": "48.66666666",
         "longitude": "19.50000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "SI",
@@ -2037,7 +2240,8 @@
         "currency": "EUR",
         "latitude": "46.11666666",
         "longitude": "14.81666666",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "SB",
@@ -2047,7 +2251,8 @@
         "currency": "SBD",
         "latitude": "-8.00000000",
         "longitude": "159.00000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SO",
@@ -2057,7 +2262,8 @@
         "currency": "SOS",
         "latitude": "10.00000000",
         "longitude": "49.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "ZA",
@@ -2067,7 +2273,8 @@
         "currency": "ZAR",
         "latitude": "-29.00000000",
         "longitude": "24.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GS",
@@ -2077,7 +2284,8 @@
         "currency": "GBP",
         "latitude": "-54.50000000",
         "longitude": "-37.00000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SS",
@@ -2087,7 +2295,8 @@
         "currency": "SSP",
         "latitude": "7.00000000",
         "longitude": "30.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "ES",
@@ -2097,7 +2306,8 @@
         "currency": "EUR",
         "latitude": "40.00000000",
         "longitude": "-4.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "LK",
@@ -2107,7 +2317,8 @@
         "currency": "LKR",
         "latitude": "7.00000000",
         "longitude": "81.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SD",
@@ -2117,7 +2328,8 @@
         "currency": "SDG",
         "latitude": "15.00000000",
         "longitude": "30.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SR",
@@ -2127,7 +2339,8 @@
         "currency": "SRD",
         "latitude": "4.00000000",
         "longitude": "-56.00000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SJ",
@@ -2137,7 +2350,8 @@
         "currency": "NOK",
         "latitude": "78.00000000",
         "longitude": "20.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SZ",
@@ -2147,7 +2361,8 @@
         "currency": "SZL",
         "latitude": "-26.50000000",
         "longitude": "31.50000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SE",
@@ -2157,7 +2372,8 @@
         "currency": "SEK",
         "latitude": "62.00000000",
         "longitude": "15.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": "EU"
     },
     {
         "isoCode": "CH",
@@ -2167,7 +2383,8 @@
         "currency": "CHF",
         "latitude": "47.00000000",
         "longitude": "8.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "SY",
@@ -2177,7 +2394,8 @@
         "currency": "SYP",
         "latitude": "35.00000000",
         "longitude": "38.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TW",
@@ -2187,7 +2405,8 @@
         "currency": "TWD",
         "latitude": "23.50000000",
         "longitude": "121.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TJ",
@@ -2197,7 +2416,8 @@
         "currency": "TJS",
         "latitude": "39.00000000",
         "longitude": "71.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TZ",
@@ -2207,7 +2427,8 @@
         "currency": "TZS",
         "latitude": "-6.00000000",
         "longitude": "35.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TH",
@@ -2217,7 +2438,8 @@
         "currency": "THB",
         "latitude": "15.00000000",
         "longitude": "100.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TG",
@@ -2227,7 +2449,8 @@
         "currency": "XOF",
         "latitude": "8.00000000",
         "longitude": "1.16666666",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TK",
@@ -2237,7 +2460,8 @@
         "currency": "NZD",
         "latitude": "-9.00000000",
         "longitude": "-172.00000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TO",
@@ -2247,7 +2471,8 @@
         "currency": "TOP",
         "latitude": "-20.00000000",
         "longitude": "-175.00000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TT",
@@ -2257,7 +2482,8 @@
         "currency": "TTD",
         "latitude": "11.00000000",
         "longitude": "-61.00000000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TN",
@@ -2267,7 +2493,8 @@
         "currency": "TND",
         "latitude": "34.00000000",
         "longitude": "9.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TR",
@@ -2277,7 +2504,8 @@
         "currency": "TRY",
         "latitude": "39.00000000",
         "longitude": "35.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TM",
@@ -2287,7 +2515,8 @@
         "currency": "TMT",
         "latitude": "40.00000000",
         "longitude": "60.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TC",
@@ -2297,7 +2526,8 @@
         "currency": "USD",
         "latitude": "21.75000000",
         "longitude": "-71.58333333",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "TV",
@@ -2307,7 +2537,8 @@
         "currency": "AUD",
         "latitude": "-8.00000000",
         "longitude": "178.00000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "UG",
@@ -2317,7 +2548,8 @@
         "currency": "UGX",
         "latitude": "1.00000000",
         "longitude": "32.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "UA",
@@ -2327,7 +2559,8 @@
         "currency": "UAH",
         "latitude": "49.00000000",
         "longitude": "32.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "AE",
@@ -2337,7 +2570,8 @@
         "currency": "AED",
         "latitude": "24.00000000",
         "longitude": "54.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "GB",
@@ -2347,7 +2581,8 @@
         "currency": "GBP",
         "latitude": "54.00000000",
         "longitude": "-2.00000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "US",
@@ -2357,7 +2592,8 @@
         "currency": "USD",
         "latitude": "38.00000000",
         "longitude": "-97.00000000",
-        "region": "Northern America"
+        "region": "Northern America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "UM",
@@ -2367,7 +2603,8 @@
         "currency": "USD",
         "latitude": "0.00000000",
         "longitude": "0.00000000",
-        "region": "Northern America"
+        "region": "Northern America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "UY",
@@ -2377,7 +2614,8 @@
         "currency": "UYU",
         "latitude": "-33.00000000",
         "longitude": "-56.00000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "UZ",
@@ -2387,7 +2625,8 @@
         "currency": "UZS",
         "latitude": "41.00000000",
         "longitude": "64.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "VU",
@@ -2397,7 +2636,8 @@
         "currency": "VUV",
         "latitude": "-16.00000000",
         "longitude": "167.00000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "VA",
@@ -2407,7 +2647,8 @@
         "currency": "EUR",
         "latitude": "41.90000000",
         "longitude": "12.45000000",
-        "region": "Europe"
+        "region": "Europe",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "VE",
@@ -2417,7 +2658,8 @@
         "currency": "VEF",
         "latitude": "8.00000000",
         "longitude": "-66.00000000",
-        "region": "South America"
+        "region": "South America",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "VN",
@@ -2427,7 +2669,8 @@
         "currency": "VND",
         "latitude": "16.16666666",
         "longitude": "107.83333333",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "VG",
@@ -2437,7 +2680,8 @@
         "currency": "USD",
         "latitude": "18.43138300",
         "longitude": "-64.62305000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "VI",
@@ -2447,7 +2691,8 @@
         "currency": "USD",
         "latitude": "18.34000000",
         "longitude": "-64.93000000",
-        "region": "Caribbean"
+        "region": "Caribbean",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "WF",
@@ -2457,7 +2702,8 @@
         "currency": "XPF",
         "latitude": "-13.30000000",
         "longitude": "-176.20000000",
-        "region": "Oceania"
+        "region": "Oceania",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "EH",
@@ -2467,7 +2713,8 @@
         "currency": "MAD",
         "latitude": "24.50000000",
         "longitude": "-13.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "YE",
@@ -2477,7 +2724,8 @@
         "currency": "YER",
         "latitude": "15.00000000",
         "longitude": "48.00000000",
-        "region": "Asia"
+        "region": "Asia",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "ZM",
@@ -2487,7 +2735,8 @@
         "currency": "ZMW",
         "latitude": "-15.00000000",
         "longitude": "30.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     },
     {
         "isoCode": "ZW",
@@ -2497,6 +2746,7 @@
         "currency": "ZWL",
         "latitude": "-20.00000000",
         "longitude": "30.00000000",
-        "region": "Africa"
+        "region": "Africa",
+        "internationalOrganization": ""
     }
 ]

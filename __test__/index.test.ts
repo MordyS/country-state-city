@@ -14,7 +14,8 @@ const executeAllTests = function (Country: any, State: any) {
 			currency: 'CAD',
 			latitude: '60.00000000',
 			longitude: '-95.00000000',
-			region: 'Northern America'
+			region: 'Northern America',
+			internationalOrganization: ''
 		});
 	});
 
@@ -136,6 +137,12 @@ const executeAllTests = function (Country: any, State: any) {
 			longitude: '-74.00597280'
 		});
 	});
+
+	test('Check if country is part of the European Union', () => {
+		const code = 'FR';
+		const isEU: boolean = Country.isEuropeanUnion(code);
+		expect(isEU).toBe(true)
+	})
 };
 export default executeAllTests;
 executeAllTests(Country, State);
