@@ -14,7 +14,7 @@ function getAllCountries(): ICountry[] {
 
 // Check if a country is part of the European Union (by country code)
 function isEuropeanUnion(isoCode: string): boolean {
-	return getCountryByCode(isoCode).internationalOrganization == "EU";
+	return getCountryByCode(isoCode)?.internationalOrganization == "EU";
 }
 
 export default {
