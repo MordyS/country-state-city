@@ -4,7 +4,7 @@ import { ICountry } from './interface';
 
 // Get a country by isoCode.
 function getCountryByCode(isoCode: string): ICountry {
-	return findEntryByCode(countryList, isoCode);
+	return findEntryByCode(countryList, isoCode?.toUpperCase());
 }
 
 // Get a list of all countries.
@@ -14,7 +14,7 @@ function getAllCountries(): ICountry[] {
 
 // Check if a country is part of the European Union (by country code)
 function isEuropeanUnion(isoCode: string): boolean {
-	return getCountryByCode(isoCode)?.internationalOrganization == "EU";
+	return getCountryByCode(isoCode?.toUpperCase())?.internationalOrganization == "EU";
 }
 
 export default {

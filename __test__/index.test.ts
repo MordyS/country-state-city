@@ -142,7 +142,23 @@ const executeAllTests = function (Country: any, State: any) {
 		const code = 'FR';
 		const isEU: boolean = Country.isEuropeanUnion(code);
 		expect(isEU).toBe(true)
-	})
+	});
+
+	test('check that you can get a country by lowercase code', () => {
+		const code = 'il';
+		const country: ICountry = Country.getCountryByCode(code);
+		expect(country).toEqual({
+			isoCode: 'IL',
+			name: 'Israel',
+			phonecode: '972',
+			flag: '🇮🇱',
+			currency: 'ILS',
+			latitude: '31.50000000',
+			longitude: '34.75000000',
+			region: 'Asia',
+			internationalOrganization: ''
+		});
+	});
 };
 export default executeAllTests;
 executeAllTests(Country, State);

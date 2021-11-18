@@ -11,14 +11,14 @@ export function getAllStates(): IState[] {
 export function getStatesOfCountry(countryCode: string): IState[] {
 	if (!countryCode) return [];
 	const states = stateList.filter((value) => {
-		return value.countryCode === countryCode;
+		return value.countryCode === countryCode?.toUpperCase();
 	});
 	return states.sort(compare);
 }
 
 // to be deprecate
 export function getStateByCode(isoCode: string): IState {
-	return findEntryByCode(stateList, isoCode);
+	return findEntryByCode(stateList, isoCode?.toUpperCase());
 }
 
 export default {
